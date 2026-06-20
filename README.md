@@ -1,2 +1,3 @@
-# KiCAD_Custom_Parts
-Custom Footprints and Symbols and Models used in my schematics.
+# KiCad Custom Parts
+
+Symbols, Footprints and 3dModels used in my schematics which are not part of the standard KiCad libraries.
