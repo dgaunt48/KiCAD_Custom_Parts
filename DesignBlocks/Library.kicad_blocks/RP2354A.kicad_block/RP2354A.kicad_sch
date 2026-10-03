@@ -2,7 +2,7 @@
 	(version 20260306)
 	(generator "eeschema")
 	(generator_version "10.0")
-	(uuid "53cc0df7-51a1-431f-a4e1-31ea79827968")
+	(uuid "27e9e305-b7dd-4d81-b3cb-ea2f43ddb30f")
 	(paper "A4")
 	(lib_symbols
 		(symbol "Connector:Conn_01x02_Pin"
@@ -3505,290 +3505,290 @@
 		)
 	)
 	(junction
-		(at 134.62 177.8)
+		(at 302.26 165.1)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "05a5bb4c-438e-49ed-878e-9922d3125954")
 	)
 	(junction
-		(at 119.38 147.32)
+		(at 287.02 134.62)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "0635f7fc-bb2c-4380-85eb-1d945efeea76")
 	)
 	(junction
-		(at 154.94 147.32)
+		(at 322.58 134.62)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "069561e1-13c6-442b-8f78-2b5a5baa6241")
 	)
 	(junction
-		(at 195.58 147.32)
+		(at 363.22 134.62)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "09cb8031-208c-48fb-982c-ea2efbf5c1c2")
 	)
 	(junction
-		(at 149.86 152.4)
+		(at 317.5 139.7)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "147fc6dd-ecf1-451f-9f8b-83ec8be38ade")
 	)
 	(junction
-		(at 96.52 182.88)
+		(at 264.16 170.18)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "1aa99d83-96da-40ac-a3c2-2eda6d6ee2ad")
 	)
 	(junction
-		(at 104.14 147.32)
+		(at 271.78 134.62)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "23f5396b-776d-45a7-95fb-eb923cec96cb")
 	)
 	(junction
-		(at 175.26 157.48)
+		(at 342.9 144.78)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "257178d1-e49d-4f1a-8e89-7b8f2248fca6")
 	)
 	(junction
-		(at 142.24 177.8)
+		(at 309.88 165.1)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "2be81a72-153c-4773-9f0b-b08a2f4e7d5b")
 	)
 	(junction
-		(at 205.74 147.32)
+		(at 373.38 134.62)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "2d91cf42-7d15-4947-8150-474925e6fd8b")
 	)
 	(junction
-		(at 60.96 246.38)
+		(at 228.6 233.68)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "31ee7694-434c-49dd-84ea-672afbb1dd98")
 	)
 	(junction
-		(at 93.98 147.32)
+		(at 261.62 134.62)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "391d6c7c-7cab-4126-beaa-1993363d3659")
 	)
 	(junction
-		(at 83.82 208.28)
+		(at 251.46 195.58)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "3d6643dc-4606-49dd-997b-57fdfc81a5c6")
 	)
 	(junction
-		(at 185.42 147.32)
+		(at 353.06 134.62)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "4332c95b-7ef0-42fc-82d5-2704be079356")
 	)
 	(junction
-		(at 111.76 177.8)
+		(at 279.4 165.1)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "488cde90-4cba-4e19-b7c4-ce59af988dcc")
 	)
 	(junction
-		(at 149.86 147.32)
+		(at 317.5 134.62)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "50cb6caa-db43-498a-abd2-ab10f1aff728")
 	)
 	(junction
-		(at 165.1 147.32)
+		(at 332.74 134.62)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "58e6173f-b8e4-417d-92a4-e21ee5c0afad")
 	)
 	(junction
-		(at 190.5 147.32)
+		(at 358.14 134.62)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "61fce712-99ae-4ae5-8b25-53b7ed2567ba")
 	)
 	(junction
-		(at 205.74 157.48)
+		(at 373.38 144.78)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "6db8fec3-22df-4932-b29f-a2476c6b6db8")
 	)
 	(junction
-		(at 71.12 223.52)
+		(at 238.76 210.82)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "7ced9ae1-4d35-49dd-829d-928c9b5d533e")
 	)
 	(junction
-		(at 185.42 157.48)
+		(at 353.06 144.78)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "7e7be9d4-4628-4fcf-835f-b52a9cfe5330")
 	)
 	(junction
-		(at 93.98 157.48)
+		(at 261.62 144.78)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "7eed8629-e272-4b11-a00b-ba9635d96579")
 	)
 	(junction
-		(at 215.9 157.48)
+		(at 383.54 144.78)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "867349e0-f014-48bf-b2d1-cfa393332e86")
 	)
 	(junction
-		(at 134.62 157.48)
+		(at 302.26 144.78)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "8a82d530-701d-4e80-9812-97ef45813d7d")
 	)
 	(junction
-		(at 132.08 177.8)
+		(at 299.72 165.1)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "9076033c-0dbe-4954-b402-e11b2cbb6bcf")
 	)
 	(junction
-		(at 114.3 177.8)
+		(at 281.94 165.1)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "944c046c-ce39-437d-b020-0377dfcb883f")
 	)
 	(junction
-		(at 195.58 157.48)
+		(at 363.22 144.78)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "a18d9ba9-eaa3-4fba-9126-70215acb40dc")
 	)
 	(junction
-		(at 121.92 172.72)
+		(at 289.56 160.02)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "a3bcaa34-4e96-46bf-9fb8-2a4977b5f7a7")
 	)
 	(junction
-		(at 83.82 182.88)
+		(at 251.46 170.18)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "a66b6521-c594-4bdf-abec-a83dedaa39d1")
 	)
 	(junction
-		(at 137.16 177.8)
+		(at 304.8 165.1)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "b06cd076-f2e5-41bc-a7ab-0b6b402db79e")
 	)
 	(junction
-		(at 139.7 177.8)
+		(at 307.34 165.1)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "b30b2e48-40f5-429d-918c-c6db5bd814b3")
 	)
 	(junction
-		(at 68.58 182.88)
+		(at 236.22 170.18)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "bfae3978-17ae-4367-b659-797d6006476a")
 	)
 	(junction
-		(at 149.86 177.8)
+		(at 317.5 165.1)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "cfb00731-04b8-4939-a37b-9df874715d7c")
 	)
 	(junction
-		(at 175.26 147.32)
+		(at 342.9 134.62)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "d1724fed-ecfb-46db-a91b-f302b71f34f0")
 	)
 	(junction
-		(at 83.82 157.48)
+		(at 251.46 144.78)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "d4f113d8-5f76-4ead-9bd7-42b1d7192e40")
 	)
 	(junction
-		(at 109.22 147.32)
+		(at 276.86 134.62)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "dbface37-6d8c-417a-8aef-27b6e8a24cbf")
 	)
 	(junction
-		(at 86.36 236.22)
+		(at 254 223.52)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "dda91ac0-1b5b-444f-9538-a5eb81d82f8c")
 	)
 	(junction
-		(at 71.12 236.22)
+		(at 238.76 223.52)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "dff9041e-83d8-43d0-8436-616e02f9476a")
 	)
 	(junction
-		(at 114.3 147.32)
+		(at 281.94 134.62)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "ef851f0f-1616-40a3-87ec-85e7df4fc6d2")
 	)
 	(junction
-		(at 83.82 195.58)
+		(at 251.46 182.88)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "fb1bce35-6cff-4b34-bad3-78525f2c681c")
 	)
 	(junction
-		(at 86.36 223.52)
+		(at 254 210.82)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "feb1af0a-4324-402c-b207-f461f1d4c513")
 	)
 	(no_connect
-		(at 101.6 226.06)
+		(at 269.24 213.36)
 		(uuid "3d98cf9a-7af8-44ee-953d-379d4836be8e")
 	)
 	(no_connect
-		(at 101.6 200.66)
+		(at 269.24 187.96)
 		(uuid "5eac5cc0-1590-486b-afb6-b0ab1cdb8487")
 	)
 	(no_connect
-		(at 101.6 218.44)
+		(at 269.24 205.74)
 		(uuid "617f23ac-1b86-4e2e-8663-fd236fb94984")
 	)
 	(no_connect
-		(at 101.6 198.12)
+		(at 269.24 185.42)
 		(uuid "68be4f9f-1e1b-4827-bdbb-b85e4e3c04e4")
 	)
 	(no_connect
-		(at 101.6 203.2)
+		(at 269.24 190.5)
 		(uuid "a0d849e2-c346-4ecc-ad71-4d381ac9ac30")
 	)
 	(no_connect
-		(at 200.66 185.42)
+		(at 368.3 172.72)
 		(uuid "a87f587d-b3a5-4a1f-a00a-7787b668f3c8")
 	)
 	(no_connect
-		(at 101.6 220.98)
+		(at 269.24 208.28)
 		(uuid "b9e6dfe6-1775-4189-b1c8-7863d1726a9f")
 	)
 	(no_connect
-		(at 101.6 215.9)
+		(at 269.24 203.2)
 		(uuid "c75e280b-253e-434a-8c8e-75119a0a1dad")
 	)
 	(no_connect
-		(at 101.6 213.36)
+		(at 269.24 200.66)
 		(uuid "ea134ea9-4191-41ff-adef-b2c77b65c5b5")
 	)
 	(wire
 		(pts
-			(xy 175.26 157.48) (xy 185.42 157.48)
+			(xy 342.9 144.78) (xy 353.06 144.78)
 		)
 		(stroke
 			(width 0)
@@ -3798,7 +3798,7 @@
 	)
 	(wire
 		(pts
-			(xy 93.98 157.48) (xy 93.98 154.94)
+			(xy 261.62 144.78) (xy 261.62 142.24)
 		)
 		(stroke
 			(width 0)
@@ -3808,7 +3808,7 @@
 	)
 	(wire
 		(pts
-			(xy 149.86 152.4) (xy 149.86 177.8)
+			(xy 317.5 139.7) (xy 317.5 165.1)
 		)
 		(stroke
 			(width 0)
@@ -3818,7 +3818,7 @@
 	)
 	(wire
 		(pts
-			(xy 111.76 177.8) (xy 109.22 177.8)
+			(xy 279.4 165.1) (xy 276.86 165.1)
 		)
 		(stroke
 			(width 0)
@@ -3828,7 +3828,7 @@
 	)
 	(wire
 		(pts
-			(xy 144.78 152.4) (xy 149.86 152.4)
+			(xy 312.42 139.7) (xy 317.5 139.7)
 		)
 		(stroke
 			(width 0)
@@ -3838,7 +3838,7 @@
 	)
 	(wire
 		(pts
-			(xy 71.12 236.22) (xy 71.12 238.76)
+			(xy 238.76 223.52) (xy 238.76 226.06)
 		)
 		(stroke
 			(width 0)
@@ -3848,7 +3848,7 @@
 	)
 	(wire
 		(pts
-			(xy 86.36 223.52) (xy 86.36 226.06)
+			(xy 254 210.82) (xy 254 213.36)
 		)
 		(stroke
 			(width 0)
@@ -3858,7 +3858,7 @@
 	)
 	(wire
 		(pts
-			(xy 198.12 190.5) (xy 172.72 190.5)
+			(xy 365.76 177.8) (xy 340.36 177.8)
 		)
 		(stroke
 			(width 0)
@@ -3868,7 +3868,7 @@
 	)
 	(wire
 		(pts
-			(xy 185.42 157.48) (xy 185.42 154.94)
+			(xy 353.06 144.78) (xy 353.06 142.24)
 		)
 		(stroke
 			(width 0)
@@ -3878,7 +3878,7 @@
 	)
 	(wire
 		(pts
-			(xy 215.9 147.32) (xy 215.9 149.86)
+			(xy 383.54 134.62) (xy 383.54 137.16)
 		)
 		(stroke
 			(width 0)
@@ -3888,7 +3888,7 @@
 	)
 	(wire
 		(pts
-			(xy 78.74 236.22) (xy 86.36 236.22)
+			(xy 246.38 223.52) (xy 254 223.52)
 		)
 		(stroke
 			(width 0)
@@ -3898,7 +3898,7 @@
 	)
 	(wire
 		(pts
-			(xy 137.16 177.8) (xy 137.16 180.34)
+			(xy 304.8 165.1) (xy 304.8 167.64)
 		)
 		(stroke
 			(width 0)
@@ -3908,7 +3908,7 @@
 	)
 	(wire
 		(pts
-			(xy 119.38 147.32) (xy 114.3 147.32)
+			(xy 287.02 134.62) (xy 281.94 134.62)
 		)
 		(stroke
 			(width 0)
@@ -3918,7 +3918,7 @@
 	)
 	(wire
 		(pts
-			(xy 86.36 231.14) (xy 86.36 236.22)
+			(xy 254 218.44) (xy 254 223.52)
 		)
 		(stroke
 			(width 0)
@@ -3928,7 +3928,7 @@
 	)
 	(wire
 		(pts
-			(xy 195.58 157.48) (xy 195.58 154.94)
+			(xy 363.22 144.78) (xy 363.22 142.24)
 		)
 		(stroke
 			(width 0)
@@ -3938,7 +3938,7 @@
 	)
 	(wire
 		(pts
-			(xy 114.3 142.24) (xy 114.3 147.32)
+			(xy 281.94 129.54) (xy 281.94 134.62)
 		)
 		(stroke
 			(width 0)
@@ -3948,7 +3948,7 @@
 	)
 	(wire
 		(pts
-			(xy 119.38 154.94) (xy 119.38 157.48)
+			(xy 287.02 142.24) (xy 287.02 144.78)
 		)
 		(stroke
 			(width 0)
@@ -3958,7 +3958,7 @@
 	)
 	(wire
 		(pts
-			(xy 96.52 193.04) (xy 96.52 182.88)
+			(xy 264.16 180.34) (xy 264.16 170.18)
 		)
 		(stroke
 			(width 0)
@@ -3968,7 +3968,7 @@
 	)
 	(wire
 		(pts
-			(xy 139.7 177.8) (xy 142.24 177.8)
+			(xy 307.34 165.1) (xy 309.88 165.1)
 		)
 		(stroke
 			(width 0)
@@ -3978,7 +3978,7 @@
 	)
 	(wire
 		(pts
-			(xy 81.28 228.6) (xy 83.82 228.6)
+			(xy 248.92 215.9) (xy 251.46 215.9)
 		)
 		(stroke
 			(width 0)
@@ -3988,7 +3988,7 @@
 	)
 	(wire
 		(pts
-			(xy 83.82 259.08) (xy 101.6 259.08)
+			(xy 251.46 246.38) (xy 269.24 246.38)
 		)
 		(stroke
 			(width 0)
@@ -3998,7 +3998,7 @@
 	)
 	(wire
 		(pts
-			(xy 114.3 177.8) (xy 114.3 180.34)
+			(xy 281.94 165.1) (xy 281.94 167.64)
 		)
 		(stroke
 			(width 0)
@@ -4008,7 +4008,7 @@
 	)
 	(wire
 		(pts
-			(xy 195.58 157.48) (xy 205.74 157.48)
+			(xy 363.22 144.78) (xy 373.38 144.78)
 		)
 		(stroke
 			(width 0)
@@ -4018,7 +4018,7 @@
 	)
 	(wire
 		(pts
-			(xy 132.08 177.8) (xy 132.08 180.34)
+			(xy 299.72 165.1) (xy 299.72 167.64)
 		)
 		(stroke
 			(width 0)
@@ -4028,7 +4028,7 @@
 	)
 	(wire
 		(pts
-			(xy 160.02 139.7) (xy 160.02 142.24)
+			(xy 327.66 127) (xy 327.66 129.54)
 		)
 		(stroke
 			(width 0)
@@ -4038,7 +4038,7 @@
 	)
 	(wire
 		(pts
-			(xy 195.58 180.34) (xy 195.58 187.96)
+			(xy 363.22 167.64) (xy 363.22 175.26)
 		)
 		(stroke
 			(width 0)
@@ -4048,7 +4048,7 @@
 	)
 	(wire
 		(pts
-			(xy 121.92 170.18) (xy 121.92 172.72)
+			(xy 289.56 157.48) (xy 289.56 160.02)
 		)
 		(stroke
 			(width 0)
@@ -4058,7 +4058,7 @@
 	)
 	(wire
 		(pts
-			(xy 208.28 190.5) (xy 208.28 195.58)
+			(xy 375.92 177.8) (xy 375.92 182.88)
 		)
 		(stroke
 			(width 0)
@@ -4068,7 +4068,7 @@
 	)
 	(wire
 		(pts
-			(xy 195.58 180.34) (xy 200.66 180.34)
+			(xy 363.22 167.64) (xy 368.3 167.64)
 		)
 		(stroke
 			(width 0)
@@ -4078,7 +4078,7 @@
 	)
 	(wire
 		(pts
-			(xy 142.24 177.8) (xy 149.86 177.8)
+			(xy 309.88 165.1) (xy 317.5 165.1)
 		)
 		(stroke
 			(width 0)
@@ -4088,7 +4088,7 @@
 	)
 	(wire
 		(pts
-			(xy 83.82 147.32) (xy 83.82 149.86)
+			(xy 251.46 134.62) (xy 251.46 137.16)
 		)
 		(stroke
 			(width 0)
@@ -4098,7 +4098,7 @@
 	)
 	(wire
 		(pts
-			(xy 195.58 187.96) (xy 172.72 187.96)
+			(xy 363.22 175.26) (xy 340.36 175.26)
 		)
 		(stroke
 			(width 0)
@@ -4108,7 +4108,7 @@
 	)
 	(wire
 		(pts
-			(xy 175.26 147.32) (xy 185.42 147.32)
+			(xy 342.9 134.62) (xy 353.06 134.62)
 		)
 		(stroke
 			(width 0)
@@ -4118,7 +4118,7 @@
 	)
 	(wire
 		(pts
-			(xy 114.3 177.8) (xy 111.76 177.8)
+			(xy 281.94 165.1) (xy 279.4 165.1)
 		)
 		(stroke
 			(width 0)
@@ -4128,7 +4128,7 @@
 	)
 	(wire
 		(pts
-			(xy 83.82 261.62) (xy 81.28 261.62)
+			(xy 251.46 248.92) (xy 248.92 248.92)
 		)
 		(stroke
 			(width 0)
@@ -4138,7 +4138,7 @@
 	)
 	(wire
 		(pts
-			(xy 104.14 147.32) (xy 109.22 147.32)
+			(xy 271.78 134.62) (xy 276.86 134.62)
 		)
 		(stroke
 			(width 0)
@@ -4148,7 +4148,7 @@
 	)
 	(wire
 		(pts
-			(xy 83.82 208.28) (xy 101.6 208.28)
+			(xy 251.46 195.58) (xy 269.24 195.58)
 		)
 		(stroke
 			(width 0)
@@ -4158,7 +4158,7 @@
 	)
 	(wire
 		(pts
-			(xy 93.98 157.48) (xy 83.82 157.48)
+			(xy 261.62 144.78) (xy 251.46 144.78)
 		)
 		(stroke
 			(width 0)
@@ -4168,7 +4168,7 @@
 	)
 	(wire
 		(pts
-			(xy 149.86 152.4) (xy 154.94 152.4)
+			(xy 317.5 139.7) (xy 322.58 139.7)
 		)
 		(stroke
 			(width 0)
@@ -4178,7 +4178,7 @@
 	)
 	(wire
 		(pts
-			(xy 160.02 139.7) (xy 157.48 139.7)
+			(xy 327.66 127) (xy 325.12 127)
 		)
 		(stroke
 			(width 0)
@@ -4188,7 +4188,7 @@
 	)
 	(wire
 		(pts
-			(xy 83.82 195.58) (xy 83.82 200.66)
+			(xy 251.46 182.88) (xy 251.46 187.96)
 		)
 		(stroke
 			(width 0)
@@ -4198,7 +4198,7 @@
 	)
 	(wire
 		(pts
-			(xy 96.52 180.34) (xy 96.52 182.88)
+			(xy 264.16 167.64) (xy 264.16 170.18)
 		)
 		(stroke
 			(width 0)
@@ -4208,7 +4208,7 @@
 	)
 	(wire
 		(pts
-			(xy 198.12 182.88) (xy 200.66 182.88)
+			(xy 365.76 170.18) (xy 368.3 170.18)
 		)
 		(stroke
 			(width 0)
@@ -4218,7 +4218,7 @@
 	)
 	(wire
 		(pts
-			(xy 129.54 177.8) (xy 132.08 177.8)
+			(xy 297.18 165.1) (xy 299.72 165.1)
 		)
 		(stroke
 			(width 0)
@@ -4228,7 +4228,7 @@
 	)
 	(wire
 		(pts
-			(xy 68.58 182.88) (xy 73.66 182.88)
+			(xy 236.22 170.18) (xy 241.3 170.18)
 		)
 		(stroke
 			(width 0)
@@ -4238,7 +4238,7 @@
 	)
 	(wire
 		(pts
-			(xy 71.12 223.52) (xy 71.12 236.22)
+			(xy 238.76 210.82) (xy 238.76 223.52)
 		)
 		(stroke
 			(width 0)
@@ -4248,7 +4248,7 @@
 	)
 	(wire
 		(pts
-			(xy 195.58 147.32) (xy 195.58 149.86)
+			(xy 363.22 134.62) (xy 363.22 137.16)
 		)
 		(stroke
 			(width 0)
@@ -4258,7 +4258,7 @@
 	)
 	(wire
 		(pts
-			(xy 86.36 236.22) (xy 88.9 236.22)
+			(xy 254 223.52) (xy 256.54 223.52)
 		)
 		(stroke
 			(width 0)
@@ -4268,7 +4268,7 @@
 	)
 	(wire
 		(pts
-			(xy 43.18 246.38) (xy 40.64 246.38)
+			(xy 210.82 233.68) (xy 208.28 233.68)
 		)
 		(stroke
 			(width 0)
@@ -4278,7 +4278,7 @@
 	)
 	(wire
 		(pts
-			(xy 132.08 177.8) (xy 134.62 177.8)
+			(xy 299.72 165.1) (xy 302.26 165.1)
 		)
 		(stroke
 			(width 0)
@@ -4288,7 +4288,7 @@
 	)
 	(wire
 		(pts
-			(xy 116.84 177.8) (xy 114.3 177.8)
+			(xy 284.48 165.1) (xy 281.94 165.1)
 		)
 		(stroke
 			(width 0)
@@ -4298,7 +4298,7 @@
 	)
 	(wire
 		(pts
-			(xy 215.9 157.48) (xy 215.9 154.94)
+			(xy 383.54 144.78) (xy 383.54 142.24)
 		)
 		(stroke
 			(width 0)
@@ -4308,7 +4308,7 @@
 	)
 	(wire
 		(pts
-			(xy 175.26 147.32) (xy 175.26 149.86)
+			(xy 342.9 134.62) (xy 342.9 137.16)
 		)
 		(stroke
 			(width 0)
@@ -4318,7 +4318,7 @@
 	)
 	(wire
 		(pts
-			(xy 81.28 259.08) (xy 71.12 259.08)
+			(xy 248.92 246.38) (xy 238.76 246.38)
 		)
 		(stroke
 			(width 0)
@@ -4328,7 +4328,7 @@
 	)
 	(wire
 		(pts
-			(xy 73.66 223.52) (xy 71.12 223.52)
+			(xy 241.3 210.82) (xy 238.76 210.82)
 		)
 		(stroke
 			(width 0)
@@ -4338,7 +4338,7 @@
 	)
 	(wire
 		(pts
-			(xy 101.6 193.04) (xy 96.52 193.04)
+			(xy 269.24 180.34) (xy 264.16 180.34)
 		)
 		(stroke
 			(width 0)
@@ -4348,7 +4348,7 @@
 	)
 	(wire
 		(pts
-			(xy 121.92 172.72) (xy 147.32 172.72)
+			(xy 289.56 160.02) (xy 314.96 160.02)
 		)
 		(stroke
 			(width 0)
@@ -4358,7 +4358,7 @@
 	)
 	(wire
 		(pts
-			(xy 144.78 147.32) (xy 165.1 147.32)
+			(xy 312.42 134.62) (xy 332.74 134.62)
 		)
 		(stroke
 			(width 0)
@@ -4368,7 +4368,7 @@
 	)
 	(wire
 		(pts
-			(xy 93.98 147.32) (xy 83.82 147.32)
+			(xy 261.62 134.62) (xy 251.46 134.62)
 		)
 		(stroke
 			(width 0)
@@ -4378,7 +4378,7 @@
 	)
 	(wire
 		(pts
-			(xy 96.52 223.52) (xy 96.52 233.68)
+			(xy 264.16 210.82) (xy 264.16 220.98)
 		)
 		(stroke
 			(width 0)
@@ -4388,7 +4388,7 @@
 	)
 	(wire
 		(pts
-			(xy 104.14 157.48) (xy 93.98 157.48)
+			(xy 271.78 144.78) (xy 261.62 144.78)
 		)
 		(stroke
 			(width 0)
@@ -4398,7 +4398,7 @@
 	)
 	(wire
 		(pts
-			(xy 60.96 246.38) (xy 101.6 246.38)
+			(xy 228.6 233.68) (xy 269.24 233.68)
 		)
 		(stroke
 			(width 0)
@@ -4408,7 +4408,7 @@
 	)
 	(wire
 		(pts
-			(xy 215.9 157.48) (xy 205.74 157.48)
+			(xy 383.54 144.78) (xy 373.38 144.78)
 		)
 		(stroke
 			(width 0)
@@ -4418,7 +4418,7 @@
 	)
 	(wire
 		(pts
-			(xy 119.38 149.86) (xy 119.38 147.32)
+			(xy 287.02 137.16) (xy 287.02 134.62)
 		)
 		(stroke
 			(width 0)
@@ -4428,7 +4428,7 @@
 	)
 	(wire
 		(pts
-			(xy 96.52 233.68) (xy 101.6 233.68)
+			(xy 264.16 220.98) (xy 269.24 220.98)
 		)
 		(stroke
 			(width 0)
@@ -4438,7 +4438,7 @@
 	)
 	(wire
 		(pts
-			(xy 147.32 172.72) (xy 147.32 180.34)
+			(xy 314.96 160.02) (xy 314.96 167.64)
 		)
 		(stroke
 			(width 0)
@@ -4448,7 +4448,7 @@
 	)
 	(wire
 		(pts
-			(xy 93.98 236.22) (xy 101.6 236.22)
+			(xy 261.62 223.52) (xy 269.24 223.52)
 		)
 		(stroke
 			(width 0)
@@ -4458,7 +4458,7 @@
 	)
 	(wire
 		(pts
-			(xy 185.42 147.32) (xy 215.9 147.32)
+			(xy 353.06 134.62) (xy 383.54 134.62)
 		)
 		(stroke
 			(width 0)
@@ -4468,7 +4468,7 @@
 	)
 	(wire
 		(pts
-			(xy 210.82 190.5) (xy 210.82 195.58)
+			(xy 378.46 177.8) (xy 378.46 182.88)
 		)
 		(stroke
 			(width 0)
@@ -4478,7 +4478,7 @@
 	)
 	(wire
 		(pts
-			(xy 104.14 157.48) (xy 104.14 154.94)
+			(xy 271.78 144.78) (xy 271.78 142.24)
 		)
 		(stroke
 			(width 0)
@@ -4488,7 +4488,7 @@
 	)
 	(wire
 		(pts
-			(xy 83.82 182.88) (xy 83.82 185.42)
+			(xy 251.46 170.18) (xy 251.46 172.72)
 		)
 		(stroke
 			(width 0)
@@ -4498,7 +4498,7 @@
 	)
 	(wire
 		(pts
-			(xy 149.86 139.7) (xy 152.4 139.7)
+			(xy 317.5 127) (xy 320.04 127)
 		)
 		(stroke
 			(width 0)
@@ -4508,7 +4508,7 @@
 	)
 	(wire
 		(pts
-			(xy 205.74 147.32) (xy 205.74 149.86)
+			(xy 373.38 134.62) (xy 373.38 137.16)
 		)
 		(stroke
 			(width 0)
@@ -4518,7 +4518,7 @@
 	)
 	(wire
 		(pts
-			(xy 83.82 205.74) (xy 83.82 208.28)
+			(xy 251.46 193.04) (xy 251.46 195.58)
 		)
 		(stroke
 			(width 0)
@@ -4528,7 +4528,7 @@
 	)
 	(wire
 		(pts
-			(xy 68.58 182.88) (xy 68.58 195.58)
+			(xy 236.22 170.18) (xy 236.22 182.88)
 		)
 		(stroke
 			(width 0)
@@ -4538,7 +4538,7 @@
 	)
 	(wire
 		(pts
-			(xy 76.2 208.28) (xy 83.82 208.28)
+			(xy 243.84 195.58) (xy 251.46 195.58)
 		)
 		(stroke
 			(width 0)
@@ -4548,7 +4548,7 @@
 	)
 	(wire
 		(pts
-			(xy 198.12 170.18) (xy 198.12 175.26)
+			(xy 365.76 157.48) (xy 365.76 162.56)
 		)
 		(stroke
 			(width 0)
@@ -4558,7 +4558,7 @@
 	)
 	(wire
 		(pts
-			(xy 60.96 233.68) (xy 60.96 236.22)
+			(xy 228.6 220.98) (xy 228.6 223.52)
 		)
 		(stroke
 			(width 0)
@@ -4568,7 +4568,7 @@
 	)
 	(wire
 		(pts
-			(xy 134.62 285.75) (xy 134.62 281.94)
+			(xy 302.26 273.05) (xy 302.26 269.24)
 		)
 		(stroke
 			(width 0)
@@ -4578,7 +4578,7 @@
 	)
 	(wire
 		(pts
-			(xy 149.86 177.8) (xy 149.86 180.34)
+			(xy 317.5 165.1) (xy 317.5 167.64)
 		)
 		(stroke
 			(width 0)
@@ -4588,7 +4588,7 @@
 	)
 	(wire
 		(pts
-			(xy 71.12 236.22) (xy 73.66 236.22)
+			(xy 238.76 223.52) (xy 241.3 223.52)
 		)
 		(stroke
 			(width 0)
@@ -4598,7 +4598,7 @@
 	)
 	(wire
 		(pts
-			(xy 134.62 177.8) (xy 137.16 177.8)
+			(xy 302.26 165.1) (xy 304.8 165.1)
 		)
 		(stroke
 			(width 0)
@@ -4608,7 +4608,7 @@
 	)
 	(wire
 		(pts
-			(xy 83.82 182.88) (xy 96.52 182.88)
+			(xy 251.46 170.18) (xy 264.16 170.18)
 		)
 		(stroke
 			(width 0)
@@ -4618,7 +4618,7 @@
 	)
 	(wire
 		(pts
-			(xy 93.98 147.32) (xy 93.98 149.86)
+			(xy 261.62 134.62) (xy 261.62 137.16)
 		)
 		(stroke
 			(width 0)
@@ -4628,7 +4628,7 @@
 	)
 	(wire
 		(pts
-			(xy 121.92 172.72) (xy 121.92 180.34)
+			(xy 289.56 160.02) (xy 289.56 167.64)
 		)
 		(stroke
 			(width 0)
@@ -4638,7 +4638,7 @@
 	)
 	(wire
 		(pts
-			(xy 71.12 210.82) (xy 68.58 210.82)
+			(xy 238.76 198.12) (xy 236.22 198.12)
 		)
 		(stroke
 			(width 0)
@@ -4648,7 +4648,7 @@
 	)
 	(wire
 		(pts
-			(xy 134.62 160.02) (xy 134.62 157.48)
+			(xy 302.26 147.32) (xy 302.26 144.78)
 		)
 		(stroke
 			(width 0)
@@ -4658,7 +4658,7 @@
 	)
 	(wire
 		(pts
-			(xy 175.26 157.48) (xy 175.26 154.94)
+			(xy 342.9 144.78) (xy 342.9 142.24)
 		)
 		(stroke
 			(width 0)
@@ -4668,7 +4668,7 @@
 	)
 	(wire
 		(pts
-			(xy 149.86 139.7) (xy 149.86 147.32)
+			(xy 317.5 127) (xy 317.5 134.62)
 		)
 		(stroke
 			(width 0)
@@ -4678,7 +4678,7 @@
 	)
 	(wire
 		(pts
-			(xy 104.14 147.32) (xy 93.98 147.32)
+			(xy 271.78 134.62) (xy 261.62 134.62)
 		)
 		(stroke
 			(width 0)
@@ -4688,7 +4688,7 @@
 	)
 	(wire
 		(pts
-			(xy 129.54 177.8) (xy 129.54 180.34)
+			(xy 297.18 165.1) (xy 297.18 167.64)
 		)
 		(stroke
 			(width 0)
@@ -4698,7 +4698,7 @@
 	)
 	(wire
 		(pts
-			(xy 124.46 147.32) (xy 119.38 147.32)
+			(xy 292.1 134.62) (xy 287.02 134.62)
 		)
 		(stroke
 			(width 0)
@@ -4708,7 +4708,7 @@
 	)
 	(wire
 		(pts
-			(xy 165.1 157.48) (xy 165.1 154.94)
+			(xy 332.74 144.78) (xy 332.74 142.24)
 		)
 		(stroke
 			(width 0)
@@ -4718,7 +4718,7 @@
 	)
 	(wire
 		(pts
-			(xy 60.96 246.38) (xy 53.34 246.38)
+			(xy 228.6 233.68) (xy 220.98 233.68)
 		)
 		(stroke
 			(width 0)
@@ -4728,7 +4728,7 @@
 	)
 	(wire
 		(pts
-			(xy 83.82 157.48) (xy 83.82 154.94)
+			(xy 251.46 144.78) (xy 251.46 142.24)
 		)
 		(stroke
 			(width 0)
@@ -4738,7 +4738,7 @@
 	)
 	(wire
 		(pts
-			(xy 198.12 175.26) (xy 200.66 175.26)
+			(xy 365.76 162.56) (xy 368.3 162.56)
 		)
 		(stroke
 			(width 0)
@@ -4748,7 +4748,7 @@
 	)
 	(wire
 		(pts
-			(xy 78.74 223.52) (xy 86.36 223.52)
+			(xy 246.38 210.82) (xy 254 210.82)
 		)
 		(stroke
 			(width 0)
@@ -4758,7 +4758,7 @@
 	)
 	(wire
 		(pts
-			(xy 175.26 147.32) (xy 165.1 147.32)
+			(xy 342.9 134.62) (xy 332.74 134.62)
 		)
 		(stroke
 			(width 0)
@@ -4768,7 +4768,7 @@
 	)
 	(wire
 		(pts
-			(xy 165.1 187.96) (xy 167.64 187.96)
+			(xy 332.74 175.26) (xy 335.28 175.26)
 		)
 		(stroke
 			(width 0)
@@ -4778,7 +4778,7 @@
 	)
 	(wire
 		(pts
-			(xy 205.74 157.48) (xy 205.74 154.94)
+			(xy 373.38 144.78) (xy 373.38 142.24)
 		)
 		(stroke
 			(width 0)
@@ -4788,7 +4788,7 @@
 	)
 	(wire
 		(pts
-			(xy 81.28 228.6) (xy 81.28 231.14)
+			(xy 248.92 215.9) (xy 248.92 218.44)
 		)
 		(stroke
 			(width 0)
@@ -4798,7 +4798,7 @@
 	)
 	(wire
 		(pts
-			(xy 134.62 157.48) (xy 119.38 157.48)
+			(xy 302.26 144.78) (xy 287.02 144.78)
 		)
 		(stroke
 			(width 0)
@@ -4808,7 +4808,7 @@
 	)
 	(wire
 		(pts
-			(xy 142.24 177.8) (xy 142.24 180.34)
+			(xy 309.88 165.1) (xy 309.88 167.64)
 		)
 		(stroke
 			(width 0)
@@ -4818,7 +4818,7 @@
 	)
 	(wire
 		(pts
-			(xy 71.12 259.08) (xy 71.12 264.16)
+			(xy 238.76 246.38) (xy 238.76 251.46)
 		)
 		(stroke
 			(width 0)
@@ -4828,7 +4828,7 @@
 	)
 	(wire
 		(pts
-			(xy 104.14 147.32) (xy 104.14 149.86)
+			(xy 271.78 134.62) (xy 271.78 137.16)
 		)
 		(stroke
 			(width 0)
@@ -4838,7 +4838,7 @@
 	)
 	(wire
 		(pts
-			(xy 137.16 177.8) (xy 139.7 177.8)
+			(xy 304.8 165.1) (xy 307.34 165.1)
 		)
 		(stroke
 			(width 0)
@@ -4848,7 +4848,7 @@
 	)
 	(wire
 		(pts
-			(xy 68.58 180.34) (xy 68.58 182.88)
+			(xy 236.22 167.64) (xy 236.22 170.18)
 		)
 		(stroke
 			(width 0)
@@ -4858,7 +4858,7 @@
 	)
 	(wire
 		(pts
-			(xy 139.7 177.8) (xy 139.7 180.34)
+			(xy 307.34 165.1) (xy 307.34 167.64)
 		)
 		(stroke
 			(width 0)
@@ -4868,7 +4868,7 @@
 	)
 	(wire
 		(pts
-			(xy 154.94 147.32) (xy 154.94 152.4)
+			(xy 322.58 134.62) (xy 322.58 139.7)
 		)
 		(stroke
 			(width 0)
@@ -4878,7 +4878,7 @@
 	)
 	(wire
 		(pts
-			(xy 68.58 195.58) (xy 101.6 195.58)
+			(xy 236.22 182.88) (xy 269.24 182.88)
 		)
 		(stroke
 			(width 0)
@@ -4888,7 +4888,7 @@
 	)
 	(wire
 		(pts
-			(xy 71.12 208.28) (xy 68.58 208.28)
+			(xy 238.76 195.58) (xy 236.22 195.58)
 		)
 		(stroke
 			(width 0)
@@ -4898,7 +4898,7 @@
 	)
 	(wire
 		(pts
-			(xy 116.84 180.34) (xy 116.84 177.8)
+			(xy 284.48 167.64) (xy 284.48 165.1)
 		)
 		(stroke
 			(width 0)
@@ -4908,7 +4908,7 @@
 	)
 	(wire
 		(pts
-			(xy 185.42 147.32) (xy 185.42 149.86)
+			(xy 353.06 134.62) (xy 353.06 137.16)
 		)
 		(stroke
 			(width 0)
@@ -4918,7 +4918,7 @@
 	)
 	(wire
 		(pts
-			(xy 165.1 147.32) (xy 165.1 149.86)
+			(xy 332.74 134.62) (xy 332.74 137.16)
 		)
 		(stroke
 			(width 0)
@@ -4928,7 +4928,7 @@
 	)
 	(wire
 		(pts
-			(xy 215.9 160.02) (xy 215.9 157.48)
+			(xy 383.54 147.32) (xy 383.54 144.78)
 		)
 		(stroke
 			(width 0)
@@ -4938,7 +4938,7 @@
 	)
 	(wire
 		(pts
-			(xy 83.82 259.08) (xy 83.82 261.62)
+			(xy 251.46 246.38) (xy 251.46 248.92)
 		)
 		(stroke
 			(width 0)
@@ -4948,7 +4948,7 @@
 	)
 	(wire
 		(pts
-			(xy 134.62 177.8) (xy 134.62 180.34)
+			(xy 302.26 165.1) (xy 302.26 167.64)
 		)
 		(stroke
 			(width 0)
@@ -4958,7 +4958,7 @@
 	)
 	(wire
 		(pts
-			(xy 165.1 190.5) (xy 167.64 190.5)
+			(xy 332.74 177.8) (xy 335.28 177.8)
 		)
 		(stroke
 			(width 0)
@@ -4968,7 +4968,7 @@
 	)
 	(wire
 		(pts
-			(xy 40.64 246.38) (xy 40.64 248.92)
+			(xy 208.28 233.68) (xy 208.28 236.22)
 		)
 		(stroke
 			(width 0)
@@ -4978,7 +4978,7 @@
 	)
 	(wire
 		(pts
-			(xy 83.82 160.02) (xy 83.82 157.48)
+			(xy 251.46 147.32) (xy 251.46 144.78)
 		)
 		(stroke
 			(width 0)
@@ -4988,7 +4988,7 @@
 	)
 	(wire
 		(pts
-			(xy 60.96 241.3) (xy 60.96 246.38)
+			(xy 228.6 228.6) (xy 228.6 233.68)
 		)
 		(stroke
 			(width 0)
@@ -4998,7 +4998,7 @@
 	)
 	(wire
 		(pts
-			(xy 198.12 182.88) (xy 198.12 190.5)
+			(xy 365.76 170.18) (xy 365.76 177.8)
 		)
 		(stroke
 			(width 0)
@@ -5008,7 +5008,7 @@
 	)
 	(wire
 		(pts
-			(xy 111.76 177.8) (xy 111.76 180.34)
+			(xy 279.4 165.1) (xy 279.4 167.64)
 		)
 		(stroke
 			(width 0)
@@ -5018,7 +5018,7 @@
 	)
 	(wire
 		(pts
-			(xy 165.1 157.48) (xy 175.26 157.48)
+			(xy 332.74 144.78) (xy 342.9 144.78)
 		)
 		(stroke
 			(width 0)
@@ -5028,7 +5028,7 @@
 	)
 	(wire
 		(pts
-			(xy 109.22 147.32) (xy 114.3 147.32)
+			(xy 276.86 134.62) (xy 281.94 134.62)
 		)
 		(stroke
 			(width 0)
@@ -5038,7 +5038,7 @@
 	)
 	(wire
 		(pts
-			(xy 81.28 256.54) (xy 101.6 256.54)
+			(xy 248.92 243.84) (xy 269.24 243.84)
 		)
 		(stroke
 			(width 0)
@@ -5048,7 +5048,7 @@
 	)
 	(wire
 		(pts
-			(xy 71.12 210.82) (xy 71.12 223.52)
+			(xy 238.76 198.12) (xy 238.76 210.82)
 		)
 		(stroke
 			(width 0)
@@ -5058,7 +5058,7 @@
 	)
 	(wire
 		(pts
-			(xy 78.74 182.88) (xy 83.82 182.88)
+			(xy 246.38 170.18) (xy 251.46 170.18)
 		)
 		(stroke
 			(width 0)
@@ -5068,7 +5068,7 @@
 	)
 	(wire
 		(pts
-			(xy 86.36 223.52) (xy 96.52 223.52)
+			(xy 254 210.82) (xy 264.16 210.82)
 		)
 		(stroke
 			(width 0)
@@ -5078,7 +5078,7 @@
 	)
 	(wire
 		(pts
-			(xy 190.5 142.24) (xy 190.5 147.32)
+			(xy 358.14 129.54) (xy 358.14 134.62)
 		)
 		(stroke
 			(width 0)
@@ -5088,7 +5088,7 @@
 	)
 	(wire
 		(pts
-			(xy 185.42 157.48) (xy 195.58 157.48)
+			(xy 353.06 144.78) (xy 363.22 144.78)
 		)
 		(stroke
 			(width 0)
@@ -5098,7 +5098,7 @@
 	)
 	(wire
 		(pts
-			(xy 109.22 177.8) (xy 109.22 147.32)
+			(xy 276.86 165.1) (xy 276.86 134.62)
 		)
 		(stroke
 			(width 0)
@@ -5107,7 +5107,7 @@
 		(uuid "fe8e3342-d83f-4fa9-bca5-32948eba2d8e")
 	)
 	(label "~{CS}"
-		(at 96.52 208.28 180)
+		(at 264.16 195.58 180)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -5117,7 +5117,7 @@
 		(uuid "7b2d4c4c-581b-482d-ac30-9486417f9e4b")
 	)
 	(label "2354_SWCLK"
-		(at 86.36 256.54 0)
+		(at 254 243.84 0)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -5127,7 +5127,7 @@
 		(uuid "84acbeaf-85b6-46cd-9d6c-677aab02bf2b")
 	)
 	(label "2354_USB_D-"
-		(at 187.96 190.5 180)
+		(at 355.6 177.8 180)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -5137,7 +5137,7 @@
 		(uuid "e5d840aa-8ba8-4f6a-ba4d-9683f1431271")
 	)
 	(label "2354_USB_D+"
-		(at 187.96 187.96 180)
+		(at 355.6 175.26 180)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -5147,7 +5147,7 @@
 		(uuid "efc01e49-9c53-4a94-8dea-28ac4feabfaf")
 	)
 	(label "2354_SWDIO"
-		(at 86.36 259.08 0)
+		(at 254 246.38 0)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -5158,7 +5158,7 @@
 	)
 	(symbol
 		(lib_id "power:GND")
-		(at 40.64 248.92 0)
+		(at 208.28 236.22 0)
 		(mirror y)
 		(unit 1)
 		(body_style 1)
@@ -5169,8 +5169,8 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "07378423-fb51-4969-812e-ed37e4359323")
-		(property "Reference" "#PWR011"
-			(at 40.64 255.27 0)
+		(property "Reference" "#PWR01"
+			(at 208.28 242.57 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -5181,7 +5181,7 @@
 			)
 		)
 		(property "Value" "GND"
-			(at 40.64 254 0)
+			(at 208.28 241.3 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -5192,7 +5192,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 40.64 248.92 0)
+			(at 208.28 236.22 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -5203,7 +5203,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 40.64 248.92 0)
+			(at 208.28 236.22 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -5214,7 +5214,7 @@
 			)
 		)
 		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
-			(at 40.64 248.92 0)
+			(at 208.28 236.22 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -5228,9 +5228,9 @@
 			(uuid "d8e69c29-1c76-4d55-8b66-230087ff8616")
 		)
 		(instances
-			(project "Ice40hx1k_vq100"
+			(project "RP2350B_LevelShift"
 				(path "/26813dea-ac31-4359-98cd-29d1f4f9df4c"
-					(reference "#PWR011")
+					(reference "#PWR01")
 					(unit 1)
 				)
 			)
@@ -5238,7 +5238,7 @@
 	)
 	(symbol
 		(lib_id "power:+3V3")
-		(at 68.58 180.34 0)
+		(at 236.22 167.64 0)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -5247,8 +5247,8 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "092bc422-9eb8-4378-88c5-44e514334496")
-		(property "Reference" "#PWR023"
-			(at 68.58 184.15 0)
+		(property "Reference" "#PWR03"
+			(at 236.22 171.45 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -5259,7 +5259,7 @@
 			)
 		)
 		(property "Value" "+3V3"
-			(at 67.7755 176.5798 0)
+			(at 235.4155 163.8798 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -5269,7 +5269,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 68.58 180.34 0)
+			(at 236.22 167.64 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -5280,7 +5280,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 68.58 180.34 0)
+			(at 236.22 167.64 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -5291,7 +5291,7 @@
 			)
 		)
 		(property "Description" "Power symbol creates a global label with name \"+3V3\""
-			(at 68.58 180.34 0)
+			(at 236.22 167.64 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -5305,9 +5305,9 @@
 			(uuid "9ffa90ea-a523-47cf-beed-ebdfcd4e7ea6")
 		)
 		(instances
-			(project "Ice40hx1k_vq100"
+			(project "RP2350B_LevelShift"
 				(path "/26813dea-ac31-4359-98cd-29d1f4f9df4c"
-					(reference "#PWR023")
+					(reference "#PWR03")
 					(unit 1)
 				)
 			)
@@ -5315,7 +5315,7 @@
 	)
 	(symbol
 		(lib_id "power:GND")
-		(at 215.9 160.02 0)
+		(at 383.54 147.32 0)
 		(mirror y)
 		(unit 1)
 		(body_style 1)
@@ -5326,8 +5326,8 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "0c82ec3f-63fb-4114-a741-82d55330497b")
-		(property "Reference" "#PWR017"
-			(at 215.9 166.37 0)
+		(property "Reference" "#PWR018"
+			(at 383.54 153.67 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -5338,7 +5338,7 @@
 			)
 		)
 		(property "Value" "GND"
-			(at 215.9 165.1 0)
+			(at 383.54 152.4 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -5349,7 +5349,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 215.9 160.02 0)
+			(at 383.54 147.32 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -5360,7 +5360,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 215.9 160.02 0)
+			(at 383.54 147.32 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -5371,7 +5371,7 @@
 			)
 		)
 		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
-			(at 215.9 160.02 0)
+			(at 383.54 147.32 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -5385,9 +5385,9 @@
 			(uuid "2e4e48f2-9ce9-4c0d-a582-bffb758bb218")
 		)
 		(instances
-			(project "Ice40hx1k_vq100"
+			(project "RP2350B_LevelShift"
 				(path "/26813dea-ac31-4359-98cd-29d1f4f9df4c"
-					(reference "#PWR017")
+					(reference "#PWR018")
 					(unit 1)
 				)
 			)
@@ -5395,7 +5395,7 @@
 	)
 	(symbol
 		(lib_id "Device:C_Small")
-		(at 165.1 152.4 180)
+		(at 332.74 139.7 180)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -5405,8 +5405,8 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "0d72fe79-ed0b-4b08-9e94-d13a3b6e88e4")
-		(property "Reference" "C14"
-			(at 167.64 151.1235 0)
+		(property "Reference" "C9"
+			(at 335.28 138.4235 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -5417,7 +5417,7 @@
 			)
 		)
 		(property "Value" "100nf"
-			(at 167.64 153.6635 0)
+			(at 335.28 140.9635 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -5428,7 +5428,7 @@
 			)
 		)
 		(property "Footprint" "Capacitor_SMD:C_0603_1608Metric"
-			(at 165.1 152.4 0)
+			(at 332.74 139.7 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -5439,7 +5439,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 165.1 152.4 0)
+			(at 332.74 139.7 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -5450,7 +5450,7 @@
 			)
 		)
 		(property "Description" "Unpolarized capacitor, small symbol"
-			(at 165.1 152.4 0)
+			(at 332.74 139.7 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -5461,7 +5461,7 @@
 			)
 		)
 		(property "Note" ""
-			(at 165.1 152.4 0)
+			(at 332.74 139.7 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -5472,7 +5472,7 @@
 			)
 		)
 		(property "Voltage" ""
-			(at 165.1 152.4 0)
+			(at 332.74 139.7 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -5483,7 +5483,7 @@
 			)
 		)
 		(property "class" ""
-			(at 165.1 152.4 0)
+			(at 332.74 139.7 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -5500,9 +5500,9 @@
 			(uuid "43013b49-623d-4a53-a985-cf5f0e77103c")
 		)
 		(instances
-			(project "Ice40hx1k_vq100"
+			(project "RP2350B_LevelShift"
 				(path "/26813dea-ac31-4359-98cd-29d1f4f9df4c"
-					(reference "C14")
+					(reference "C9")
 					(unit 1)
 				)
 			)
@@ -5510,7 +5510,7 @@
 	)
 	(symbol
 		(lib_id "Device:Crystal_GND24_Small")
-		(at 86.36 228.6 270)
+		(at 254 215.9 270)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -5520,7 +5520,7 @@
 		(dnp no)
 		(uuid "1077dcb7-e980-4395-8638-b9afc4c33353")
 		(property "Reference" "Y1"
-			(at 83.82 226.06 90)
+			(at 251.46 213.36 90)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -5531,7 +5531,7 @@
 			)
 		)
 		(property "Value" "12MHz"
-			(at 91.44 226.06 90)
+			(at 259.08 213.36 90)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -5541,7 +5541,7 @@
 			)
 		)
 		(property "Footprint" "Crystal:Crystal_SMD_SeikoEpson_FA238V-4Pin_3.2x2.5mm"
-			(at 86.36 228.6 0)
+			(at 254 215.9 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -5552,7 +5552,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 86.36 228.6 0)
+			(at 254 215.9 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -5563,7 +5563,7 @@
 			)
 		)
 		(property "Description" "Four pin crystal, GND on pins 2 and 4, small symbol"
-			(at 86.36 228.6 0)
+			(at 254 215.9 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -5574,7 +5574,7 @@
 			)
 		)
 		(property "Note" ""
-			(at 86.36 228.6 0)
+			(at 254 215.9 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -5585,7 +5585,7 @@
 			)
 		)
 		(property "Voltage" ""
-			(at 86.36 228.6 0)
+			(at 254 215.9 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -5596,7 +5596,7 @@
 			)
 		)
 		(property "class" ""
-			(at 86.36 228.6 0)
+			(at 254 215.9 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -5619,7 +5619,7 @@
 			(uuid "0ea67637-8009-4011-9b15-7e599c2cfd58")
 		)
 		(instances
-			(project "Ice40hx1k_vq100"
+			(project "RP2350B_LevelShift"
 				(path "/26813dea-ac31-4359-98cd-29d1f4f9df4c"
 					(reference "Y1")
 					(unit 1)
@@ -5629,7 +5629,7 @@
 	)
 	(symbol
 		(lib_id "Device:C_Small")
-		(at 83.82 187.96 180)
+		(at 251.46 175.26 180)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -5638,8 +5638,8 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "11422a89-42d1-4ffa-a380-9a341969bc63")
-		(property "Reference" "C20"
-			(at 86.36 186.6836 0)
+		(property "Reference" "C4"
+			(at 254 173.9836 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -5650,7 +5650,7 @@
 			)
 		)
 		(property "Value" "4.7uf"
-			(at 86.36 189.2236 0)
+			(at 254 176.5236 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -5661,7 +5661,7 @@
 			)
 		)
 		(property "Footprint" "Capacitor_SMD:C_0603_1608Metric"
-			(at 83.82 187.96 0)
+			(at 251.46 175.26 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -5672,7 +5672,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 83.82 187.96 0)
+			(at 251.46 175.26 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -5683,7 +5683,7 @@
 			)
 		)
 		(property "Description" "Unpolarized capacitor, small symbol"
-			(at 83.82 187.96 0)
+			(at 251.46 175.26 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -5694,7 +5694,7 @@
 			)
 		)
 		(property "Note" ""
-			(at 83.82 187.96 0)
+			(at 251.46 175.26 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -5705,7 +5705,7 @@
 			)
 		)
 		(property "Voltage" ""
-			(at 83.82 187.96 0)
+			(at 251.46 175.26 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -5716,7 +5716,7 @@
 			)
 		)
 		(property "class" ""
-			(at 83.82 187.96 0)
+			(at 251.46 175.26 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -5733,9 +5733,9 @@
 			(uuid "3715cdba-2b84-4bcf-9473-d5333824dae1")
 		)
 		(instances
-			(project "Ice40hx1k_vq100"
+			(project "RP2350B_LevelShift"
 				(path "/26813dea-ac31-4359-98cd-29d1f4f9df4c"
-					(reference "C20")
+					(reference "C4")
 					(unit 1)
 				)
 			)
@@ -5743,7 +5743,7 @@
 	)
 	(symbol
 		(lib_id "power:GND")
-		(at 81.28 231.14 0)
+		(at 248.92 218.44 0)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -5753,8 +5753,8 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "1c8def4e-24f5-44ea-a6a7-353da5e2a51a")
-		(property "Reference" "#PWR038"
-			(at 81.28 237.49 0)
+		(property "Reference" "#PWR06"
+			(at 248.92 224.79 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -5765,7 +5765,7 @@
 			)
 		)
 		(property "Value" "GND"
-			(at 81.2799 234.95 90)
+			(at 248.9199 222.25 90)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -5777,7 +5777,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 81.28 231.14 0)
+			(at 248.92 218.44 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -5788,7 +5788,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 81.28 231.14 0)
+			(at 248.92 218.44 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -5799,7 +5799,7 @@
 			)
 		)
 		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
-			(at 81.28 231.14 0)
+			(at 248.92 218.44 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -5813,9 +5813,9 @@
 			(uuid "00268a89-3dc4-4a02-8aba-a0256131316d")
 		)
 		(instances
-			(project "Ice40hx1k_vq100"
+			(project "RP2350B_LevelShift"
 				(path "/26813dea-ac31-4359-98cd-29d1f4f9df4c"
-					(reference "#PWR038")
+					(reference "#PWR06")
 					(unit 1)
 				)
 			)
@@ -5823,7 +5823,7 @@
 	)
 	(symbol
 		(lib_id "MCU_RaspberryPi_and_Boards:RP2350A-QFN60")
-		(at 134.62 228.6 0)
+		(at 302.26 215.9 0)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -5832,8 +5832,8 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "26aed092-9f96-4d84-a161-364b5d843355")
-		(property "Reference" "U5"
-			(at 127 227.33 0)
+		(property "Reference" "U2"
+			(at 294.64 214.63 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -5844,7 +5844,7 @@
 			)
 		)
 		(property "Value" "RP2354A-QFN60"
-			(at 127 231.14 0)
+			(at 294.64 218.44 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -5855,7 +5855,7 @@
 			)
 		)
 		(property "Footprint" "RP2350_KiCad-main:RP2350A_QFN-60_EP_7.75x7.75_Pitch0.4mm"
-			(at 123.19 210.82 0)
+			(at 290.83 198.12 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -5866,7 +5866,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 123.19 210.82 0)
+			(at 290.83 198.12 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -5877,7 +5877,7 @@
 			)
 		)
 		(property "Description" ""
-			(at 128.27 214.63 0)
+			(at 295.91 201.93 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -6071,9 +6071,9 @@
 			(uuid "ee00863a-76d4-4915-b31f-3d39b68b9e0f")
 		)
 		(instances
-			(project "Ice40hx1k_vq100"
+			(project "RP2350B_LevelShift"
 				(path "/26813dea-ac31-4359-98cd-29d1f4f9df4c"
-					(reference "U5")
+					(reference "U2")
 					(unit 1)
 				)
 			)
@@ -6081,7 +6081,7 @@
 	)
 	(symbol
 		(lib_id "Connector:Conn_01x02_Pin")
-		(at 63.5 208.28 0)
+		(at 231.14 195.58 0)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -6091,7 +6091,7 @@
 		(dnp no)
 		(uuid "2923ccc5-8cde-46e7-8109-a3b44407b07f")
 		(property "Reference" "Je1"
-			(at 60.9142 209.2663 90)
+			(at 228.5542 196.5663 90)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -6102,7 +6102,7 @@
 			)
 		)
 		(property "Value" "BOOT SEL"
-			(at 60.96 208.28 90)
+			(at 228.6 195.58 90)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -6112,7 +6112,7 @@
 			)
 		)
 		(property "Footprint" "Connector_PinHeader_2.54mm:PinHeader_1x02_P2.54mm_Vertical"
-			(at 63.5 208.28 0)
+			(at 231.14 195.58 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -6123,7 +6123,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 63.5 208.28 0)
+			(at 231.14 195.58 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -6134,7 +6134,7 @@
 			)
 		)
 		(property "Description" "Generic connector, single row, 01x02, script generated"
-			(at 63.5 208.28 0)
+			(at 231.14 195.58 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -6145,7 +6145,7 @@
 			)
 		)
 		(property "Note" ""
-			(at 63.5 208.28 0)
+			(at 231.14 195.58 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -6156,7 +6156,7 @@
 			)
 		)
 		(property "Voltage" ""
-			(at 63.5 208.28 0)
+			(at 231.14 195.58 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -6167,7 +6167,7 @@
 			)
 		)
 		(property "class" ""
-			(at 63.5 208.28 0)
+			(at 231.14 195.58 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -6184,7 +6184,7 @@
 			(uuid "21a9d5d8-e89c-4d71-8399-ea89b8b99fbb")
 		)
 		(instances
-			(project "Ice40hx1k_vq100"
+			(project "RP2350B_LevelShift"
 				(path "/26813dea-ac31-4359-98cd-29d1f4f9df4c"
 					(reference "Je1")
 					(unit 1)
@@ -6194,7 +6194,7 @@
 	)
 	(symbol
 		(lib_id "Device:C_Small")
-		(at 76.2 236.22 90)
+		(at 243.84 223.52 90)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -6203,8 +6203,8 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "3356f80b-cf88-4d35-87f0-814817f2e116")
-		(property "Reference" "C26"
-			(at 76.2 231.14 90)
+		(property "Reference" "C2"
+			(at 243.84 218.44 90)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -6214,7 +6214,7 @@
 			)
 		)
 		(property "Value" "10pf"
-			(at 76.2 233.68 90)
+			(at 243.84 220.98 90)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -6224,7 +6224,7 @@
 			)
 		)
 		(property "Footprint" "Capacitor_SMD:C_0603_1608Metric"
-			(at 76.2 236.22 0)
+			(at 243.84 223.52 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -6235,7 +6235,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 76.2 236.22 0)
+			(at 243.84 223.52 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -6246,7 +6246,7 @@
 			)
 		)
 		(property "Description" "Unpolarized capacitor, small symbol"
-			(at 76.2 236.22 0)
+			(at 243.84 223.52 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -6263,9 +6263,9 @@
 			(uuid "c0849b6c-398e-44c7-b6f7-ad74d6ed1fc3")
 		)
 		(instances
-			(project "Ice40hx1k_vq100"
+			(project "RP2350B_LevelShift"
 				(path "/26813dea-ac31-4359-98cd-29d1f4f9df4c"
-					(reference "C26")
+					(reference "C2")
 					(unit 1)
 				)
 			)
@@ -6273,7 +6273,7 @@
 	)
 	(symbol
 		(lib_id "Switch:SW_Push")
-		(at 48.26 246.38 0)
+		(at 215.9 233.68 0)
 		(mirror y)
 		(unit 1)
 		(body_style 1)
@@ -6284,7 +6284,7 @@
 		(dnp no)
 		(uuid "33daeefe-e6e9-414b-b5e4-3f67049675d3")
 		(property "Reference" "S1"
-			(at 33.02 241.3 0)
+			(at 200.66 228.6 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -6295,7 +6295,7 @@
 			)
 		)
 		(property "Value" "RESET"
-			(at 48.26 241.3 0)
+			(at 215.9 228.6 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -6305,7 +6305,7 @@
 			)
 		)
 		(property "Footprint" "Button_Switch_THT:SW_PUSH_6mm_H4.3mm"
-			(at 48.26 241.3 0)
+			(at 215.9 228.6 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -6316,7 +6316,7 @@
 			)
 		)
 		(property "Datasheet" "https://www.mouser.de/datasheet/2/307/omron_omrn-s-a0001309768-1-1770870.pdf"
-			(at 48.26 241.3 0)
+			(at 215.9 228.6 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -6327,7 +6327,7 @@
 			)
 		)
 		(property "Description" "Push button switch, generic, two pins"
-			(at 48.26 246.38 0)
+			(at 215.9 233.68 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -6338,7 +6338,7 @@
 			)
 		)
 		(property "Height" "7.5"
-			(at 21.59 641.3 0)
+			(at 189.23 628.6 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -6350,7 +6350,7 @@
 			)
 		)
 		(property "Mouser Part Number" "653-B3F-1052-G"
-			(at 21.59 741.3 0)
+			(at 189.23 728.6 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -6362,7 +6362,7 @@
 			)
 		)
 		(property "Mouser Price/Stock" "https://www.mouser.co.uk/ProductDetail/Omron-Electronics/B3F-1052-G?qs=82jvyl5dHWcDgqEfj%2F9YaA%3D%3D"
-			(at 21.59 841.3 0)
+			(at 189.23 828.6 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -6374,7 +6374,7 @@
 			)
 		)
 		(property "Manufacturer_Name" "Omron Electronics"
-			(at 21.59 941.3 0)
+			(at 189.23 928.6 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -6386,7 +6386,7 @@
 			)
 		)
 		(property "Manufacturer_Part_Number" "B3F-1052-G"
-			(at 21.59 1041.3 0)
+			(at 189.23 1028.6 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -6404,7 +6404,7 @@
 			(uuid "805fe138-abfb-4391-8184-67d2c13d4a3b")
 		)
 		(instances
-			(project "Ice40hx1k_vq100"
+			(project "RP2350B_LevelShift"
 				(path "/26813dea-ac31-4359-98cd-29d1f4f9df4c"
 					(reference "S1")
 					(unit 1)
@@ -6414,7 +6414,7 @@
 	)
 	(symbol
 		(lib_id "Device:C_Small")
-		(at 83.82 152.4 0)
+		(at 251.46 139.7 0)
 		(mirror x)
 		(unit 1)
 		(body_style 1)
@@ -6425,8 +6425,8 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "348257d7-49b4-4717-a5cd-06d84b2a2018")
-		(property "Reference" "C13"
-			(at 81.28 151.1235 0)
+		(property "Reference" "C3"
+			(at 248.92 138.4235 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -6437,7 +6437,7 @@
 			)
 		)
 		(property "Value" "100nf"
-			(at 81.28 153.6635 0)
+			(at 248.92 140.9635 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -6448,7 +6448,7 @@
 			)
 		)
 		(property "Footprint" "Capacitor_SMD:C_0603_1608Metric"
-			(at 83.82 152.4 0)
+			(at 251.46 139.7 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -6459,7 +6459,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 83.82 152.4 0)
+			(at 251.46 139.7 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -6470,7 +6470,7 @@
 			)
 		)
 		(property "Description" "Unpolarized capacitor, small symbol"
-			(at 83.82 152.4 0)
+			(at 251.46 139.7 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -6481,7 +6481,7 @@
 			)
 		)
 		(property "Note" ""
-			(at 83.82 152.4 0)
+			(at 251.46 139.7 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -6492,7 +6492,7 @@
 			)
 		)
 		(property "Voltage" ""
-			(at 83.82 152.4 0)
+			(at 251.46 139.7 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -6503,7 +6503,7 @@
 			)
 		)
 		(property "class" ""
-			(at 83.82 152.4 0)
+			(at 251.46 139.7 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -6520,9 +6520,9 @@
 			(uuid "443eacd4-e3dc-4f50-8b11-c3e1f77dc581")
 		)
 		(instances
-			(project "Ice40hx1k_vq100"
+			(project "RP2350B_LevelShift"
 				(path "/26813dea-ac31-4359-98cd-29d1f4f9df4c"
-					(reference "C13")
+					(reference "C3")
 					(unit 1)
 				)
 			)
@@ -6530,7 +6530,7 @@
 	)
 	(symbol
 		(lib_id "Device:C_Small")
-		(at 93.98 152.4 0)
+		(at 261.62 139.7 0)
 		(mirror x)
 		(unit 1)
 		(body_style 1)
@@ -6541,8 +6541,8 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "36e81439-2a97-46ae-a483-f8144fdcf202")
-		(property "Reference" "C12"
-			(at 91.44 151.1235 0)
+		(property "Reference" "C5"
+			(at 259.08 138.4235 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -6553,7 +6553,7 @@
 			)
 		)
 		(property "Value" "100nf"
-			(at 91.44 153.6635 0)
+			(at 259.08 140.9635 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -6564,7 +6564,7 @@
 			)
 		)
 		(property "Footprint" "Capacitor_SMD:C_0603_1608Metric"
-			(at 93.98 152.4 0)
+			(at 261.62 139.7 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -6575,7 +6575,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 93.98 152.4 0)
+			(at 261.62 139.7 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -6586,7 +6586,7 @@
 			)
 		)
 		(property "Description" "Unpolarized capacitor, small symbol"
-			(at 93.98 152.4 0)
+			(at 261.62 139.7 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -6597,7 +6597,7 @@
 			)
 		)
 		(property "Note" ""
-			(at 93.98 152.4 0)
+			(at 261.62 139.7 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -6608,7 +6608,7 @@
 			)
 		)
 		(property "Voltage" ""
-			(at 93.98 152.4 0)
+			(at 261.62 139.7 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -6619,7 +6619,7 @@
 			)
 		)
 		(property "class" ""
-			(at 93.98 152.4 0)
+			(at 261.62 139.7 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -6636,9 +6636,9 @@
 			(uuid "62a803d5-9480-42ea-92a9-4c6ff2161afc")
 		)
 		(instances
-			(project "Ice40hx1k_vq100"
+			(project "RP2350B_LevelShift"
 				(path "/26813dea-ac31-4359-98cd-29d1f4f9df4c"
-					(reference "C12")
+					(reference "C5")
 					(unit 1)
 				)
 			)
@@ -6646,7 +6646,7 @@
 	)
 	(symbol
 		(lib_id "Device:C_Small")
-		(at 104.14 152.4 0)
+		(at 271.78 139.7 0)
 		(mirror x)
 		(unit 1)
 		(body_style 1)
@@ -6657,8 +6657,8 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "573cf811-fe5c-4d94-9633-fd54c239a632")
-		(property "Reference" "C11"
-			(at 101.6 151.1235 0)
+		(property "Reference" "C6"
+			(at 269.24 138.4235 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -6669,7 +6669,7 @@
 			)
 		)
 		(property "Value" "100nf"
-			(at 101.6 153.6635 0)
+			(at 269.24 140.9635 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -6680,7 +6680,7 @@
 			)
 		)
 		(property "Footprint" "Capacitor_SMD:C_0603_1608Metric"
-			(at 104.14 152.4 0)
+			(at 271.78 139.7 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -6691,7 +6691,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 104.14 152.4 0)
+			(at 271.78 139.7 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -6702,7 +6702,7 @@
 			)
 		)
 		(property "Description" "Unpolarized capacitor, small symbol"
-			(at 104.14 152.4 0)
+			(at 271.78 139.7 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -6713,7 +6713,7 @@
 			)
 		)
 		(property "Note" ""
-			(at 104.14 152.4 0)
+			(at 271.78 139.7 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -6724,7 +6724,7 @@
 			)
 		)
 		(property "Voltage" ""
-			(at 104.14 152.4 0)
+			(at 271.78 139.7 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -6735,7 +6735,7 @@
 			)
 		)
 		(property "class" ""
-			(at 104.14 152.4 0)
+			(at 271.78 139.7 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -6752,9 +6752,9 @@
 			(uuid "64a6d93f-22f9-49a6-9f15-f13b7f8ad89a")
 		)
 		(instances
-			(project "Ice40hx1k_vq100"
+			(project "RP2350B_LevelShift"
 				(path "/26813dea-ac31-4359-98cd-29d1f4f9df4c"
-					(reference "C11")
+					(reference "C6")
 					(unit 1)
 				)
 			)
@@ -6762,7 +6762,7 @@
 	)
 	(symbol
 		(lib_id "power:+5V")
-		(at 198.12 170.18 0)
+		(at 365.76 157.48 0)
 		(mirror y)
 		(unit 1)
 		(body_style 1)
@@ -6772,8 +6772,8 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "5d441aea-2aaa-4c0c-b6f6-4f863187e4ab")
-		(property "Reference" "#PWR021"
-			(at 198.12 173.99 0)
+		(property "Reference" "#PWR015"
+			(at 365.76 161.29 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -6784,7 +6784,7 @@
 			)
 		)
 		(property "Value" "+5V"
-			(at 198.2972 166.2738 0)
+			(at 365.9372 153.5738 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -6794,7 +6794,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 198.12 170.18 0)
+			(at 365.76 157.48 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -6805,7 +6805,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 198.12 170.18 0)
+			(at 365.76 157.48 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -6816,7 +6816,7 @@
 			)
 		)
 		(property "Description" "Power symbol creates a global label with name \"+5V\""
-			(at 198.12 170.18 0)
+			(at 365.76 157.48 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -6830,9 +6830,9 @@
 			(uuid "93d1806b-e432-4073-b2af-7beea7245418")
 		)
 		(instances
-			(project "Ice40hx1k_vq100"
+			(project "RP2350B_LevelShift"
 				(path "/26813dea-ac31-4359-98cd-29d1f4f9df4c"
-					(reference "#PWR021")
+					(reference "#PWR015")
 					(unit 1)
 				)
 			)
@@ -6840,7 +6840,7 @@
 	)
 	(symbol
 		(lib_id "power:GND")
-		(at 160.02 142.24 0)
+		(at 327.66 129.54 0)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -6850,8 +6850,8 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "5d7a307e-3933-4a65-a8c6-3debd88e20b5")
-		(property "Reference" "#PWR0113"
-			(at 160.02 148.59 0)
+		(property "Reference" "#PWR013"
+			(at 327.66 135.89 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -6862,7 +6862,7 @@
 			)
 		)
 		(property "Value" "GND"
-			(at 160.02 147.32 0)
+			(at 327.66 134.62 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -6873,7 +6873,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 160.02 142.24 0)
+			(at 327.66 129.54 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -6884,7 +6884,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 160.02 142.24 0)
+			(at 327.66 129.54 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -6895,7 +6895,7 @@
 			)
 		)
 		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
-			(at 160.02 142.24 0)
+			(at 327.66 129.54 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -6909,9 +6909,9 @@
 			(uuid "5514db50-9213-41e1-8635-fff541fd2c6f")
 		)
 		(instances
-			(project "Ice40hx1k_vq100"
+			(project "RP2350B_LevelShift"
 				(path "/26813dea-ac31-4359-98cd-29d1f4f9df4c"
-					(reference "#PWR0113")
+					(reference "#PWR013")
 					(unit 1)
 				)
 			)
@@ -6919,7 +6919,7 @@
 	)
 	(symbol
 		(lib_id "Regulator_Linear:MIC5504-1.2YM5")
-		(at 134.62 149.86 0)
+		(at 302.26 137.16 0)
 		(mirror y)
 		(unit 1)
 		(body_style 1)
@@ -6929,8 +6929,8 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "66082caa-3353-4779-90dd-7b99724b87d5")
-		(property "Reference" "U4"
-			(at 129.3678 153.0944 0)
+		(property "Reference" "U1"
+			(at 297.0078 140.3944 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -6940,7 +6940,7 @@
 			)
 		)
 		(property "Value" "TLV74311PDBVR"
-			(at 134.62 142.24 0)
+			(at 302.26 129.54 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -6950,7 +6950,7 @@
 			)
 		)
 		(property "Footprint" "Package_TO_SOT_SMD:SOT-23-5"
-			(at 134.62 160.02 0)
+			(at 302.26 147.32 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -6961,7 +6961,7 @@
 			)
 		)
 		(property "Datasheet" "http://ww1.microchip.com/downloads/en/DeviceDoc/MIC550X.pdf"
-			(at 140.97 143.51 0)
+			(at 308.61 130.81 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -6972,7 +6972,7 @@
 			)
 		)
 		(property "Description" "300mA Low-dropout Voltage Regulator, Vout 1.1V, Vin up to 5.5V, SOT-23"
-			(at 157.48 134.62 0)
+			(at 325.12 121.92 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -6983,7 +6983,7 @@
 			)
 		)
 		(property "Note" ""
-			(at 134.62 149.86 0)
+			(at 302.26 137.16 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -6994,7 +6994,7 @@
 			)
 		)
 		(property "Voltage" "1v1"
-			(at 134.62 139.7 0)
+			(at 302.26 127 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -7004,7 +7004,7 @@
 			)
 		)
 		(property "class" ""
-			(at 134.62 149.86 0)
+			(at 302.26 137.16 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -7030,9 +7030,9 @@
 			(uuid "8a582182-6db8-40b9-ad9c-89f7343fe157")
 		)
 		(instances
-			(project "Ice40hx1k_vq100"
+			(project "RP2350B_LevelShift"
 				(path "/26813dea-ac31-4359-98cd-29d1f4f9df4c"
-					(reference "U4")
+					(reference "U1")
 					(unit 1)
 				)
 			)
@@ -7040,7 +7040,7 @@
 	)
 	(symbol
 		(lib_id "Device:C_Small")
-		(at 195.58 152.4 180)
+		(at 363.22 139.7 180)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -7050,8 +7050,8 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "68b256c9-17ea-44f1-8bcc-d76161ae9aa8")
-		(property "Reference" "C17"
-			(at 198.12 151.1235 0)
+		(property "Reference" "C12"
+			(at 365.76 138.4235 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -7062,7 +7062,7 @@
 			)
 		)
 		(property "Value" "100nf"
-			(at 198.12 153.6635 0)
+			(at 365.76 140.9635 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -7073,7 +7073,7 @@
 			)
 		)
 		(property "Footprint" "Capacitor_SMD:C_0603_1608Metric"
-			(at 195.58 152.4 0)
+			(at 363.22 139.7 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -7084,7 +7084,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 195.58 152.4 0)
+			(at 363.22 139.7 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -7095,7 +7095,7 @@
 			)
 		)
 		(property "Description" "Unpolarized capacitor, small symbol"
-			(at 195.58 152.4 0)
+			(at 363.22 139.7 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -7106,7 +7106,7 @@
 			)
 		)
 		(property "Note" ""
-			(at 195.58 152.4 0)
+			(at 363.22 139.7 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -7117,7 +7117,7 @@
 			)
 		)
 		(property "Voltage" ""
-			(at 195.58 152.4 0)
+			(at 363.22 139.7 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -7128,7 +7128,7 @@
 			)
 		)
 		(property "class" ""
-			(at 195.58 152.4 0)
+			(at 363.22 139.7 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -7145,9 +7145,9 @@
 			(uuid "9cd5a84b-6b81-4c98-ae02-4129eb671beb")
 		)
 		(instances
-			(project "Ice40hx1k_vq100"
+			(project "RP2350B_LevelShift"
 				(path "/26813dea-ac31-4359-98cd-29d1f4f9df4c"
-					(reference "C17")
+					(reference "C12")
 					(unit 1)
 				)
 			)
@@ -7155,7 +7155,7 @@
 	)
 	(symbol
 		(lib_id "power:GND")
-		(at 134.62 285.75 0)
+		(at 302.26 273.05 0)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -7165,8 +7165,8 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "6ff9f84f-2b8f-43fa-a288-4f12d867ef75")
-		(property "Reference" "#PWR047"
-			(at 134.62 292.1 0)
+		(property "Reference" "#PWR012"
+			(at 302.26 279.4 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -7177,7 +7177,7 @@
 			)
 		)
 		(property "Value" "GND"
-			(at 134.62 290.83 0)
+			(at 302.26 278.13 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -7188,7 +7188,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 134.62 285.75 0)
+			(at 302.26 273.05 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -7199,7 +7199,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 134.62 285.75 0)
+			(at 302.26 273.05 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -7210,7 +7210,7 @@
 			)
 		)
 		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
-			(at 134.62 285.75 0)
+			(at 302.26 273.05 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -7224,9 +7224,9 @@
 			(uuid "64f1ceb0-20fa-4eb2-8ae3-6a4f181d3205")
 		)
 		(instances
-			(project "Ice40hx1k_vq100"
+			(project "RP2350B_LevelShift"
 				(path "/26813dea-ac31-4359-98cd-29d1f4f9df4c"
-					(reference "#PWR047")
+					(reference "#PWR012")
 					(unit 1)
 				)
 			)
@@ -7234,7 +7234,7 @@
 	)
 	(symbol
 		(lib_id "Device:C_Small")
-		(at 215.9 152.4 180)
+		(at 383.54 139.7 180)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -7244,8 +7244,8 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "71ce6aa2-38e0-4682-aa83-6fca26c95f7c")
-		(property "Reference" "C19"
-			(at 218.44 151.1235 0)
+		(property "Reference" "C14"
+			(at 386.08 138.4235 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -7256,7 +7256,7 @@
 			)
 		)
 		(property "Value" "100nf"
-			(at 218.44 153.6635 0)
+			(at 386.08 140.9635 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -7267,7 +7267,7 @@
 			)
 		)
 		(property "Footprint" "Capacitor_SMD:C_0603_1608Metric"
-			(at 215.9 152.4 0)
+			(at 383.54 139.7 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -7278,7 +7278,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 215.9 152.4 0)
+			(at 383.54 139.7 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -7289,7 +7289,7 @@
 			)
 		)
 		(property "Description" "Unpolarized capacitor, small symbol"
-			(at 215.9 152.4 0)
+			(at 383.54 139.7 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -7300,7 +7300,7 @@
 			)
 		)
 		(property "Note" ""
-			(at 215.9 152.4 0)
+			(at 383.54 139.7 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -7311,7 +7311,7 @@
 			)
 		)
 		(property "Voltage" ""
-			(at 215.9 152.4 0)
+			(at 383.54 139.7 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -7322,7 +7322,7 @@
 			)
 		)
 		(property "class" ""
-			(at 215.9 152.4 0)
+			(at 383.54 139.7 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -7339,9 +7339,9 @@
 			(uuid "a9e98d22-f062-4c85-a4cb-32265ebbd21a")
 		)
 		(instances
-			(project "Ice40hx1k_vq100"
+			(project "RP2350B_LevelShift"
 				(path "/26813dea-ac31-4359-98cd-29d1f4f9df4c"
-					(reference "C19")
+					(reference "C14")
 					(unit 1)
 				)
 			)
@@ -7349,7 +7349,7 @@
 	)
 	(symbol
 		(lib_id "Connector:Conn_01x03_Pin")
-		(at 76.2 259.08 0)
+		(at 243.84 246.38 0)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -7358,8 +7358,8 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "741c3959-d12b-4641-b38e-cf1b74a243da")
-		(property "Reference" "J5"
-			(at 73.6142 260.0663 90)
+		(property "Reference" "J1"
+			(at 241.2542 247.3663 90)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -7370,7 +7370,7 @@
 			)
 		)
 		(property "Value" "SWD"
-			(at 74.689 258.9393 90)
+			(at 242.329 246.2393 90)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -7381,7 +7381,7 @@
 			)
 		)
 		(property "Footprint" "Connector_PinHeader_2.54mm:PinHeader_1x03_P2.54mm_Vertical"
-			(at 76.2 259.08 0)
+			(at 243.84 246.38 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -7392,7 +7392,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 76.2 259.08 0)
+			(at 243.84 246.38 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -7403,7 +7403,7 @@
 			)
 		)
 		(property "Description" "Generic connector, single row, 01x03, script generated"
-			(at 76.2 259.08 0)
+			(at 243.84 246.38 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -7414,7 +7414,7 @@
 			)
 		)
 		(property "Note" ""
-			(at 76.2 259.08 0)
+			(at 243.84 246.38 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -7425,7 +7425,7 @@
 			)
 		)
 		(property "Voltage" ""
-			(at 76.2 259.08 0)
+			(at 243.84 246.38 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -7436,7 +7436,7 @@
 			)
 		)
 		(property "class" ""
-			(at 76.2 259.08 0)
+			(at 243.84 246.38 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -7456,9 +7456,9 @@
 			(uuid "379656d5-f4b1-42b4-bbad-ec94a542e6be")
 		)
 		(instances
-			(project "Ice40hx1k_vq100"
+			(project "RP2350B_LevelShift"
 				(path "/26813dea-ac31-4359-98cd-29d1f4f9df4c"
-					(reference "J5")
+					(reference "J1")
 					(unit 1)
 				)
 			)
@@ -7466,7 +7466,7 @@
 	)
 	(symbol
 		(lib_id "power:+3V3")
-		(at 121.92 170.18 0)
+		(at 289.56 157.48 0)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -7475,8 +7475,8 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "806ac1ef-f5f0-4083-862f-d074473a431c")
-		(property "Reference" "#PWR020"
-			(at 121.92 173.99 0)
+		(property "Reference" "#PWR010"
+			(at 289.56 161.29 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -7487,7 +7487,7 @@
 			)
 		)
 		(property "Value" "+3V3"
-			(at 121.1155 166.4198 0)
+			(at 288.7555 153.7198 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -7497,7 +7497,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 121.92 170.18 0)
+			(at 289.56 157.48 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -7508,7 +7508,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 121.92 170.18 0)
+			(at 289.56 157.48 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -7519,7 +7519,7 @@
 			)
 		)
 		(property "Description" "Power symbol creates a global label with name \"+3V3\""
-			(at 121.92 170.18 0)
+			(at 289.56 157.48 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -7533,9 +7533,9 @@
 			(uuid "d32e07df-f87f-4736-a2c0-cfc71bc0ed91")
 		)
 		(instances
-			(project "Ice40hx1k_vq100"
+			(project "RP2350B_LevelShift"
 				(path "/26813dea-ac31-4359-98cd-29d1f4f9df4c"
-					(reference "#PWR020")
+					(reference "#PWR010")
 					(unit 1)
 				)
 			)
@@ -7543,7 +7543,7 @@
 	)
 	(symbol
 		(lib_id "Device:C_Small")
-		(at 119.38 152.4 0)
+		(at 287.02 139.7 0)
 		(mirror x)
 		(unit 1)
 		(body_style 1)
@@ -7553,8 +7553,8 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "8563bdeb-0893-4840-9083-6fc31de05e0b")
-		(property "Reference" "C10"
-			(at 116.84 151.1236 0)
+		(property "Reference" "C7"
+			(at 284.48 138.4236 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -7565,7 +7565,7 @@
 			)
 		)
 		(property "Value" "4.7uf"
-			(at 116.84 153.6636 0)
+			(at 284.48 140.9636 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -7576,7 +7576,7 @@
 			)
 		)
 		(property "Footprint" "Capacitor_SMD:C_0603_1608Metric"
-			(at 119.38 152.4 0)
+			(at 287.02 139.7 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -7587,7 +7587,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 119.38 152.4 0)
+			(at 287.02 139.7 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -7598,7 +7598,7 @@
 			)
 		)
 		(property "Description" "Unpolarized capacitor, small symbol"
-			(at 119.38 152.4 0)
+			(at 287.02 139.7 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -7609,7 +7609,7 @@
 			)
 		)
 		(property "Note" ""
-			(at 119.38 152.4 0)
+			(at 287.02 139.7 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -7620,7 +7620,7 @@
 			)
 		)
 		(property "Voltage" ""
-			(at 119.38 152.4 0)
+			(at 287.02 139.7 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -7631,7 +7631,7 @@
 			)
 		)
 		(property "class" ""
-			(at 119.38 152.4 0)
+			(at 287.02 139.7 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -7648,9 +7648,9 @@
 			(uuid "d3ddd21d-9f79-49e8-a8c5-b65f105e17dc")
 		)
 		(instances
-			(project "Ice40hx1k_vq100"
+			(project "RP2350B_LevelShift"
 				(path "/26813dea-ac31-4359-98cd-29d1f4f9df4c"
-					(reference "C10")
+					(reference "C7")
 					(unit 1)
 				)
 			)
@@ -7658,7 +7658,7 @@
 	)
 	(symbol
 		(lib_id "Connector:USB_B_Micro")
-		(at 208.28 180.34 0)
+		(at 375.92 167.64 0)
 		(mirror y)
 		(unit 1)
 		(body_style 1)
@@ -7668,8 +7668,8 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "8c4398a0-0ace-4880-899f-4d44fb8274f3")
-		(property "Reference" "J3"
-			(at 218.44 180.34 90)
+		(property "Reference" "J2"
+			(at 386.08 167.64 90)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -7681,7 +7681,7 @@
 			)
 		)
 		(property "Value" "USB_B_Micro"
-			(at 215.9 185.42 90)
+			(at 383.54 172.72 90)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -7693,7 +7693,7 @@
 			)
 		)
 		(property "Footprint" "_Custom:USB_Micro-B_Amphenol_10103594-0001LF_Horizontal"
-			(at 204.47 181.61 0)
+			(at 372.11 168.91 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -7704,7 +7704,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 204.47 181.61 0)
+			(at 372.11 168.91 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -7715,7 +7715,7 @@
 			)
 		)
 		(property "Description" "USB Micro Type B connector"
-			(at 208.28 180.34 0)
+			(at 375.92 167.64 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -7744,9 +7744,9 @@
 			(uuid "00c8b771-52bc-4f0f-87b6-4b032f88fc50")
 		)
 		(instances
-			(project "Ice40hx1k_vq100"
+			(project "RP2350B_LevelShift"
 				(path "/26813dea-ac31-4359-98cd-29d1f4f9df4c"
-					(reference "J3")
+					(reference "J2")
 					(unit 1)
 				)
 			)
@@ -7754,7 +7754,7 @@
 	)
 	(symbol
 		(lib_id "power:GND")
-		(at 210.82 195.58 0)
+		(at 378.46 182.88 0)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -7764,8 +7764,8 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "8dde3219-1c1c-482d-add5-ea09ce17b840")
-		(property "Reference" "#PWR027"
-			(at 210.82 201.93 0)
+		(property "Reference" "#PWR017"
+			(at 378.46 189.23 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -7776,7 +7776,7 @@
 			)
 		)
 		(property "Value" "GND"
-			(at 210.82 200.66 0)
+			(at 378.46 187.96 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -7787,7 +7787,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 210.82 195.58 0)
+			(at 378.46 182.88 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -7798,7 +7798,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 210.82 195.58 0)
+			(at 378.46 182.88 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -7809,7 +7809,7 @@
 			)
 		)
 		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
-			(at 210.82 195.58 0)
+			(at 378.46 182.88 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -7823,9 +7823,9 @@
 			(uuid "688d7f77-5da0-4af5-a9e5-7a8eb4ebc524")
 		)
 		(instances
-			(project "Ice40hx1k_vq100"
+			(project "RP2350B_LevelShift"
 				(path "/26813dea-ac31-4359-98cd-29d1f4f9df4c"
-					(reference "#PWR027")
+					(reference "#PWR017")
 					(unit 1)
 				)
 			)
@@ -7833,7 +7833,7 @@
 	)
 	(symbol
 		(lib_id "power:+3V3")
-		(at 190.5 142.24 0)
+		(at 358.14 129.54 0)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -7843,7 +7843,7 @@
 		(dnp no)
 		(uuid "8e999537-4b6d-4c33-ab6b-804484c90a0f")
 		(property "Reference" "#PWR014"
-			(at 190.5 146.05 0)
+			(at 358.14 133.35 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -7854,7 +7854,7 @@
 			)
 		)
 		(property "Value" "+3V3"
-			(at 189.6955 138.4798 0)
+			(at 357.3355 125.7798 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -7864,7 +7864,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 190.5 142.24 0)
+			(at 358.14 129.54 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -7875,7 +7875,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 190.5 142.24 0)
+			(at 358.14 129.54 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -7886,7 +7886,7 @@
 			)
 		)
 		(property "Description" "Power symbol creates a global label with name \"+3V3\""
-			(at 190.5 142.24 0)
+			(at 358.14 129.54 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -7900,7 +7900,7 @@
 			(uuid "25ec6cd1-a1af-44a1-9db8-325aeec140ae")
 		)
 		(instances
-			(project "Ice40hx1k_vq100"
+			(project "RP2350B_LevelShift"
 				(path "/26813dea-ac31-4359-98cd-29d1f4f9df4c"
 					(reference "#PWR014")
 					(unit 1)
@@ -7910,7 +7910,7 @@
 	)
 	(symbol
 		(lib_id "power:+3V3")
-		(at 60.96 233.68 0)
+		(at 228.6 220.98 0)
 		(mirror y)
 		(unit 1)
 		(body_style 1)
@@ -7920,8 +7920,8 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "9630b7ed-a5b7-4eab-adc9-eec760038f7e")
-		(property "Reference" "#PWR039"
-			(at 60.96 237.49 0)
+		(property "Reference" "#PWR02"
+			(at 228.6 224.79 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -7932,7 +7932,7 @@
 			)
 		)
 		(property "Value" "+3V3"
-			(at 61.7645 229.9198 0)
+			(at 229.4045 217.2198 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -7942,7 +7942,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 60.96 233.68 0)
+			(at 228.6 220.98 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -7953,7 +7953,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 60.96 233.68 0)
+			(at 228.6 220.98 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -7964,7 +7964,7 @@
 			)
 		)
 		(property "Description" "Power symbol creates a global label with name \"+3V3\""
-			(at 60.96 233.68 0)
+			(at 228.6 220.98 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -7978,9 +7978,9 @@
 			(uuid "9916568c-985a-4774-8767-4d9df3faee91")
 		)
 		(instances
-			(project "Ice40hx1k_vq100"
+			(project "RP2350B_LevelShift"
 				(path "/26813dea-ac31-4359-98cd-29d1f4f9df4c"
-					(reference "#PWR039")
+					(reference "#PWR02")
 					(unit 1)
 				)
 			)
@@ -7988,7 +7988,7 @@
 	)
 	(symbol
 		(lib_id "power:PWR_FLAG")
-		(at 96.52 180.34 0)
+		(at 264.16 167.64 0)
 		(mirror y)
 		(unit 1)
 		(body_style 1)
@@ -7998,8 +7998,8 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "96b79126-3030-4df8-9a6f-adb1ff0842c4")
-		(property "Reference" "#FLG02"
-			(at 96.52 178.435 0)
+		(property "Reference" "#FLG01"
+			(at 264.16 165.735 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -8010,7 +8010,7 @@
 			)
 		)
 		(property "Value" "PWR_FLAG"
-			(at 96.8193 176.7568 0)
+			(at 264.4593 164.0568 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -8021,7 +8021,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 96.52 180.34 0)
+			(at 264.16 167.64 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -8032,7 +8032,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 96.52 180.34 0)
+			(at 264.16 167.64 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -8043,7 +8043,7 @@
 			)
 		)
 		(property "Description" "Special symbol for telling ERC where power comes from"
-			(at 96.52 180.34 0)
+			(at 264.16 167.64 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -8057,9 +8057,9 @@
 			(uuid "aee987b4-7ca2-40e9-af73-0069a391ce53")
 		)
 		(instances
-			(project "Ice40hx1k_vq100"
+			(project "RP2350B_LevelShift"
 				(path "/26813dea-ac31-4359-98cd-29d1f4f9df4c"
-					(reference "#FLG02")
+					(reference "#FLG01")
 					(unit 1)
 				)
 			)
@@ -8067,7 +8067,7 @@
 	)
 	(symbol
 		(lib_id "Device:C_Small")
-		(at 185.42 152.4 180)
+		(at 353.06 139.7 180)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -8077,8 +8077,8 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "9b209fd9-93c4-4f7b-a92d-a440daec23bc")
-		(property "Reference" "C16"
-			(at 187.96 151.1235 0)
+		(property "Reference" "C11"
+			(at 355.6 138.4235 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -8089,7 +8089,7 @@
 			)
 		)
 		(property "Value" "100nf"
-			(at 187.96 153.6635 0)
+			(at 355.6 140.9635 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -8100,7 +8100,7 @@
 			)
 		)
 		(property "Footprint" "Capacitor_SMD:C_0603_1608Metric"
-			(at 185.42 152.4 0)
+			(at 353.06 139.7 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -8111,7 +8111,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 185.42 152.4 0)
+			(at 353.06 139.7 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -8122,7 +8122,7 @@
 			)
 		)
 		(property "Description" "Unpolarized capacitor, small symbol"
-			(at 185.42 152.4 0)
+			(at 353.06 139.7 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -8133,7 +8133,7 @@
 			)
 		)
 		(property "Note" ""
-			(at 185.42 152.4 0)
+			(at 353.06 139.7 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -8144,7 +8144,7 @@
 			)
 		)
 		(property "Voltage" ""
-			(at 185.42 152.4 0)
+			(at 353.06 139.7 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -8155,7 +8155,7 @@
 			)
 		)
 		(property "class" ""
-			(at 185.42 152.4 0)
+			(at 353.06 139.7 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -8172,9 +8172,9 @@
 			(uuid "c7806829-ddbd-4955-b72d-2afdc0aec6aa")
 		)
 		(instances
-			(project "Ice40hx1k_vq100"
+			(project "RP2350B_LevelShift"
 				(path "/26813dea-ac31-4359-98cd-29d1f4f9df4c"
-					(reference "C16")
+					(reference "C11")
 					(unit 1)
 				)
 			)
@@ -8182,7 +8182,7 @@
 	)
 	(symbol
 		(lib_id "power:GND")
-		(at 71.12 238.76 0)
+		(at 238.76 226.06 0)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -8192,8 +8192,8 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "9ebf680f-cc0e-4f44-9bcc-0fffe58950af")
-		(property "Reference" "#PWR040"
-			(at 71.12 245.11 0)
+		(property "Reference" "#PWR04"
+			(at 238.76 232.41 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -8204,7 +8204,7 @@
 			)
 		)
 		(property "Value" "GND"
-			(at 71.1199 242.57 90)
+			(at 238.7599 229.87 90)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -8216,7 +8216,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 71.12 238.76 0)
+			(at 238.76 226.06 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -8227,7 +8227,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 71.12 238.76 0)
+			(at 238.76 226.06 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -8238,7 +8238,7 @@
 			)
 		)
 		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
-			(at 71.12 238.76 0)
+			(at 238.76 226.06 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -8252,9 +8252,9 @@
 			(uuid "1f82277b-cd70-4943-926f-72b76be1f558")
 		)
 		(instances
-			(project "Ice40hx1k_vq100"
+			(project "RP2350B_LevelShift"
 				(path "/26813dea-ac31-4359-98cd-29d1f4f9df4c"
-					(reference "#PWR040")
+					(reference "#PWR04")
 					(unit 1)
 				)
 			)
@@ -8262,7 +8262,7 @@
 	)
 	(symbol
 		(lib_id "power:GND")
-		(at 83.82 160.02 0)
+		(at 251.46 147.32 0)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -8272,8 +8272,8 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "a674e4c1-aa0a-4868-8671-4f17b47a736e")
-		(property "Reference" "#PWR016"
-			(at 83.82 166.37 0)
+		(property "Reference" "#PWR07"
+			(at 251.46 153.67 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -8284,7 +8284,7 @@
 			)
 		)
 		(property "Value" "GND"
-			(at 83.82 165.1 0)
+			(at 251.46 152.4 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -8295,7 +8295,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 83.82 160.02 0)
+			(at 251.46 147.32 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -8306,7 +8306,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 83.82 160.02 0)
+			(at 251.46 147.32 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -8317,7 +8317,7 @@
 			)
 		)
 		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
-			(at 83.82 160.02 0)
+			(at 251.46 147.32 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -8331,9 +8331,9 @@
 			(uuid "4e104fcf-2dfd-42ea-924c-4d89975d108c")
 		)
 		(instances
-			(project "Ice40hx1k_vq100"
+			(project "RP2350B_LevelShift"
 				(path "/26813dea-ac31-4359-98cd-29d1f4f9df4c"
-					(reference "#PWR016")
+					(reference "#PWR07")
 					(unit 1)
 				)
 			)
@@ -8341,7 +8341,7 @@
 	)
 	(symbol
 		(lib_id "Device:C_Small")
-		(at 154.94 139.7 270)
+		(at 322.58 127 270)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -8350,8 +8350,8 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "aa913075-29ca-41e9-a491-9cb3fa8ce060")
-		(property "Reference" "C55"
-			(at 152.4 134.62 90)
+		(property "Reference" "C8"
+			(at 320.04 121.92 90)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -8362,7 +8362,7 @@
 			)
 		)
 		(property "Value" "100nf"
-			(at 152.4 137.16 90)
+			(at 320.04 124.46 90)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -8373,7 +8373,7 @@
 			)
 		)
 		(property "Footprint" "Capacitor_SMD:C_0603_1608Metric"
-			(at 154.94 139.7 0)
+			(at 322.58 127 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -8384,7 +8384,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 154.94 139.7 0)
+			(at 322.58 127 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -8395,7 +8395,7 @@
 			)
 		)
 		(property "Description" "Unpolarized capacitor, small symbol"
-			(at 154.94 139.7 0)
+			(at 322.58 127 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -8406,7 +8406,7 @@
 			)
 		)
 		(property "Note" ""
-			(at 154.94 139.7 0)
+			(at 322.58 127 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -8417,7 +8417,7 @@
 			)
 		)
 		(property "Voltage" ""
-			(at 154.94 139.7 0)
+			(at 322.58 127 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -8428,7 +8428,7 @@
 			)
 		)
 		(property "class" ""
-			(at 154.94 139.7 0)
+			(at 322.58 127 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -8439,7 +8439,7 @@
 			)
 		)
 		(property "Height" ""
-			(at 154.94 139.7 0)
+			(at 322.58 127 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -8450,7 +8450,7 @@
 			)
 		)
 		(property "Manufacturer_Name" ""
-			(at 154.94 139.7 0)
+			(at 322.58 127 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -8461,7 +8461,7 @@
 			)
 		)
 		(property "Manufacturer_Part_Number" ""
-			(at 154.94 139.7 0)
+			(at 322.58 127 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -8472,7 +8472,7 @@
 			)
 		)
 		(property "Mouser Part Number" ""
-			(at 154.94 139.7 0)
+			(at 322.58 127 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -8483,7 +8483,7 @@
 			)
 		)
 		(property "Mouser Price/Stock" ""
-			(at 154.94 139.7 0)
+			(at 322.58 127 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -8494,7 +8494,7 @@
 			)
 		)
 		(property "Arrow Part Number" ""
-			(at 154.94 139.7 90)
+			(at 322.58 127 90)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -8505,7 +8505,7 @@
 			)
 		)
 		(property "Arrow Price/Stock" ""
-			(at 154.94 139.7 90)
+			(at 322.58 127 90)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -8522,9 +8522,9 @@
 			(uuid "b0f4eff4-1a42-4299-9a27-9578f9f06e99")
 		)
 		(instances
-			(project "Ice40hx1k_vq100"
+			(project "RP2350B_LevelShift"
 				(path "/26813dea-ac31-4359-98cd-29d1f4f9df4c"
-					(reference "C55")
+					(reference "C8")
 					(unit 1)
 				)
 			)
@@ -8532,7 +8532,7 @@
 	)
 	(symbol
 		(lib_id "Device:C_Small")
-		(at 205.74 152.4 180)
+		(at 373.38 139.7 180)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -8542,8 +8542,8 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "b0950853-a791-427c-b288-9cd92a32d46f")
-		(property "Reference" "C18"
-			(at 208.28 151.1235 0)
+		(property "Reference" "C13"
+			(at 375.92 138.4235 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -8554,7 +8554,7 @@
 			)
 		)
 		(property "Value" "100nf"
-			(at 208.28 153.6635 0)
+			(at 375.92 140.9635 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -8565,7 +8565,7 @@
 			)
 		)
 		(property "Footprint" "Capacitor_SMD:C_0603_1608Metric"
-			(at 205.74 152.4 0)
+			(at 373.38 139.7 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -8576,7 +8576,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 205.74 152.4 0)
+			(at 373.38 139.7 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -8587,7 +8587,7 @@
 			)
 		)
 		(property "Description" "Unpolarized capacitor, small symbol"
-			(at 205.74 152.4 0)
+			(at 373.38 139.7 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -8598,7 +8598,7 @@
 			)
 		)
 		(property "Note" ""
-			(at 205.74 152.4 0)
+			(at 373.38 139.7 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -8609,7 +8609,7 @@
 			)
 		)
 		(property "Voltage" ""
-			(at 205.74 152.4 0)
+			(at 373.38 139.7 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -8620,7 +8620,7 @@
 			)
 		)
 		(property "class" ""
-			(at 205.74 152.4 0)
+			(at 373.38 139.7 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -8637,9 +8637,9 @@
 			(uuid "5748a3e9-e414-4d50-8ba7-ed9c31bc7152")
 		)
 		(instances
-			(project "Ice40hx1k_vq100"
+			(project "RP2350B_LevelShift"
 				(path "/26813dea-ac31-4359-98cd-29d1f4f9df4c"
-					(reference "C18")
+					(reference "C13")
 					(unit 1)
 				)
 			)
@@ -8647,7 +8647,7 @@
 	)
 	(symbol
 		(lib_id "Device:R_Small")
-		(at 91.44 236.22 90)
+		(at 259.08 223.52 90)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -8656,8 +8656,8 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "b5a57b6b-1434-466b-a718-217247331210")
-		(property "Reference" "R21"
-			(at 91.478 234.2966 90)
+		(property "Reference" "R5"
+			(at 259.118 221.5966 90)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -8667,7 +8667,7 @@
 			)
 		)
 		(property "Value" "1k"
-			(at 91.44 236.22 90)
+			(at 259.08 223.52 90)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -8677,7 +8677,7 @@
 			)
 		)
 		(property "Footprint" "Resistor_SMD:R_0603_1608Metric"
-			(at 91.44 236.22 0)
+			(at 259.08 223.52 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -8688,7 +8688,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 91.44 236.22 0)
+			(at 259.08 223.52 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -8699,7 +8699,7 @@
 			)
 		)
 		(property "Description" "Resistor, small symbol"
-			(at 91.44 236.22 0)
+			(at 259.08 223.52 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -8710,7 +8710,7 @@
 			)
 		)
 		(property "Note" ""
-			(at 91.44 236.22 0)
+			(at 259.08 223.52 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -8721,7 +8721,7 @@
 			)
 		)
 		(property "Voltage" ""
-			(at 91.44 236.22 0)
+			(at 259.08 223.52 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -8732,7 +8732,7 @@
 			)
 		)
 		(property "class" ""
-			(at 91.44 236.22 0)
+			(at 259.08 223.52 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -8749,9 +8749,9 @@
 			(uuid "0da23e87-4186-4685-ada2-976bdf8b4493")
 		)
 		(instances
-			(project "Ice40hx1k_vq100"
+			(project "RP2350B_LevelShift"
 				(path "/26813dea-ac31-4359-98cd-29d1f4f9df4c"
-					(reference "R21")
+					(reference "R5")
 					(unit 1)
 				)
 			)
@@ -8759,7 +8759,7 @@
 	)
 	(symbol
 		(lib_id "Device:R_Small")
-		(at 170.18 187.96 90)
+		(at 337.82 175.26 90)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -8768,8 +8768,8 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "b995998b-71e3-439e-b32b-f1c0f7ba11e0")
-		(property "Reference" "R8"
-			(at 170.218 186.0366 90)
+		(property "Reference" "R6"
+			(at 337.858 173.3366 90)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -8779,7 +8779,7 @@
 			)
 		)
 		(property "Value" "27R"
-			(at 170.18 187.96 90)
+			(at 337.82 175.26 90)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -8789,7 +8789,7 @@
 			)
 		)
 		(property "Footprint" "Resistor_SMD:R_0603_1608Metric"
-			(at 170.18 187.96 0)
+			(at 337.82 175.26 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -8800,7 +8800,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 170.18 187.96 0)
+			(at 337.82 175.26 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -8811,7 +8811,7 @@
 			)
 		)
 		(property "Description" "Resistor, small symbol"
-			(at 170.18 187.96 0)
+			(at 337.82 175.26 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -8822,7 +8822,7 @@
 			)
 		)
 		(property "Note" ""
-			(at 170.18 187.96 0)
+			(at 337.82 175.26 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -8833,7 +8833,7 @@
 			)
 		)
 		(property "Voltage" ""
-			(at 170.18 187.96 0)
+			(at 337.82 175.26 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -8844,7 +8844,7 @@
 			)
 		)
 		(property "class" ""
-			(at 170.18 187.96 0)
+			(at 337.82 175.26 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -8861,9 +8861,9 @@
 			(uuid "dbe8cdf1-dcbf-4766-83a1-9d57b59f3eba")
 		)
 		(instances
-			(project "Ice40hx1k_vq100"
+			(project "RP2350B_LevelShift"
 				(path "/26813dea-ac31-4359-98cd-29d1f4f9df4c"
-					(reference "R8")
+					(reference "R6")
 					(unit 1)
 				)
 			)
@@ -8871,7 +8871,7 @@
 	)
 	(symbol
 		(lib_id "power:GND")
-		(at 83.82 190.5 0)
+		(at 251.46 177.8 0)
 		(mirror y)
 		(unit 1)
 		(body_style 1)
@@ -8882,8 +8882,8 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "bea0bb7e-decc-4bfd-a20f-4cb3bb867d03")
-		(property "Reference" "#PWR024"
-			(at 83.82 196.85 0)
+		(property "Reference" "#PWR08"
+			(at 251.46 184.15 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -8894,7 +8894,7 @@
 			)
 		)
 		(property "Value" "GND"
-			(at 83.82 195.58 0)
+			(at 251.46 182.88 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -8905,7 +8905,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 83.82 190.5 0)
+			(at 251.46 177.8 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -8916,7 +8916,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 83.82 190.5 0)
+			(at 251.46 177.8 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -8927,7 +8927,7 @@
 			)
 		)
 		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
-			(at 83.82 190.5 0)
+			(at 251.46 177.8 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -8941,9 +8941,9 @@
 			(uuid "d321a057-4422-4db9-b78c-bc643efc8300")
 		)
 		(instances
-			(project "Ice40hx1k_vq100"
+			(project "RP2350B_LevelShift"
 				(path "/26813dea-ac31-4359-98cd-29d1f4f9df4c"
-					(reference "#PWR024")
+					(reference "#PWR08")
 					(unit 1)
 				)
 			)
@@ -8951,7 +8951,7 @@
 	)
 	(symbol
 		(lib_id "Device:C_Small")
-		(at 175.26 152.4 180)
+		(at 342.9 139.7 180)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -8961,8 +8961,8 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "c1a931f8-a331-45e3-b3e5-c87da36f5bd5")
-		(property "Reference" "C15"
-			(at 177.8 151.1235 0)
+		(property "Reference" "C10"
+			(at 345.44 138.4235 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -8973,7 +8973,7 @@
 			)
 		)
 		(property "Value" "100nf"
-			(at 177.8 153.6635 0)
+			(at 345.44 140.9635 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -8984,7 +8984,7 @@
 			)
 		)
 		(property "Footprint" "Capacitor_SMD:C_0603_1608Metric"
-			(at 175.26 152.4 0)
+			(at 342.9 139.7 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -8995,7 +8995,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 175.26 152.4 0)
+			(at 342.9 139.7 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -9006,7 +9006,7 @@
 			)
 		)
 		(property "Description" "Unpolarized capacitor, small symbol"
-			(at 175.26 152.4 0)
+			(at 342.9 139.7 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -9017,7 +9017,7 @@
 			)
 		)
 		(property "Note" ""
-			(at 175.26 152.4 0)
+			(at 342.9 139.7 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -9028,7 +9028,7 @@
 			)
 		)
 		(property "Voltage" ""
-			(at 175.26 152.4 0)
+			(at 342.9 139.7 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -9039,7 +9039,7 @@
 			)
 		)
 		(property "class" ""
-			(at 175.26 152.4 0)
+			(at 342.9 139.7 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -9056,9 +9056,9 @@
 			(uuid "52d1b5d4-092c-48b8-837b-fcb35776beb8")
 		)
 		(instances
-			(project "Ice40hx1k_vq100"
+			(project "RP2350B_LevelShift"
 				(path "/26813dea-ac31-4359-98cd-29d1f4f9df4c"
-					(reference "C15")
+					(reference "C10")
 					(unit 1)
 				)
 			)
@@ -9066,7 +9066,7 @@
 	)
 	(symbol
 		(lib_id "Device:R_Small")
-		(at 73.66 208.28 270)
+		(at 241.3 195.58 270)
 		(mirror x)
 		(unit 1)
 		(body_style 1)
@@ -9076,8 +9076,8 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "c1c41ca1-16eb-41dc-a7ab-a25e4b6f1756")
-		(property "Reference" "R12"
-			(at 73.8379 206.392 90)
+		(property "Reference" "R2"
+			(at 241.4779 193.692 90)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -9087,7 +9087,7 @@
 			)
 		)
 		(property "Value" "2k2"
-			(at 73.66 208.28 90)
+			(at 241.3 195.58 90)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -9097,7 +9097,7 @@
 			)
 		)
 		(property "Footprint" "Resistor_SMD:R_0603_1608Metric"
-			(at 73.66 208.28 0)
+			(at 241.3 195.58 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -9108,7 +9108,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 73.66 208.28 0)
+			(at 241.3 195.58 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -9119,7 +9119,7 @@
 			)
 		)
 		(property "Description" "Resistor, small symbol"
-			(at 73.66 208.28 0)
+			(at 241.3 195.58 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -9130,7 +9130,7 @@
 			)
 		)
 		(property "Note" ""
-			(at 73.66 208.28 0)
+			(at 241.3 195.58 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -9141,7 +9141,7 @@
 			)
 		)
 		(property "Voltage" ""
-			(at 73.66 208.28 0)
+			(at 241.3 195.58 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -9152,7 +9152,7 @@
 			)
 		)
 		(property "class" ""
-			(at 73.66 208.28 0)
+			(at 241.3 195.58 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -9169,9 +9169,9 @@
 			(uuid "d2128c69-9dcc-43c9-9c4f-5d411a98defd")
 		)
 		(instances
-			(project "Ice40hx1k_vq100"
+			(project "RP2350B_LevelShift"
 				(path "/26813dea-ac31-4359-98cd-29d1f4f9df4c"
-					(reference "R12")
+					(reference "R2")
 					(unit 1)
 				)
 			)
@@ -9179,7 +9179,7 @@
 	)
 	(symbol
 		(lib_id "power:GND")
-		(at 134.62 160.02 0)
+		(at 302.26 147.32 0)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -9189,8 +9189,8 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "c5fa08b0-7f4b-466c-a956-a3927bead1d4")
-		(property "Reference" "#PWR015"
-			(at 134.62 166.37 0)
+		(property "Reference" "#PWR011"
+			(at 302.26 153.67 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -9201,7 +9201,7 @@
 			)
 		)
 		(property "Value" "GND"
-			(at 134.62 165.1 0)
+			(at 302.26 152.4 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -9212,7 +9212,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 134.62 160.02 0)
+			(at 302.26 147.32 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -9223,7 +9223,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 134.62 160.02 0)
+			(at 302.26 147.32 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -9234,7 +9234,7 @@
 			)
 		)
 		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
-			(at 134.62 160.02 0)
+			(at 302.26 147.32 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -9248,9 +9248,9 @@
 			(uuid "458e88e2-04ab-4309-8c9e-dd9b7d2b1c24")
 		)
 		(instances
-			(project "Ice40hx1k_vq100"
+			(project "RP2350B_LevelShift"
 				(path "/26813dea-ac31-4359-98cd-29d1f4f9df4c"
-					(reference "#PWR015")
+					(reference "#PWR011")
 					(unit 1)
 				)
 			)
@@ -9258,7 +9258,7 @@
 	)
 	(symbol
 		(lib_id "Device:R_Small")
-		(at 83.82 203.2 0)
+		(at 251.46 190.5 0)
 		(mirror y)
 		(unit 1)
 		(body_style 1)
@@ -9268,8 +9268,8 @@
 		(in_pos_files yes)
 		(dnp yes)
 		(uuid "cc2c0e5c-23be-4ba9-9a57-464a8f7bd43d")
-		(property "Reference" "R11"
-			(at 81.8966 203.238 90)
+		(property "Reference" "R4"
+			(at 249.5366 190.538 90)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -9279,7 +9279,7 @@
 			)
 		)
 		(property "Value" "10k"
-			(at 83.82 203.2 90)
+			(at 251.46 190.5 90)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -9289,7 +9289,7 @@
 			)
 		)
 		(property "Footprint" "Resistor_SMD:R_0603_1608Metric"
-			(at 83.82 203.2 0)
+			(at 251.46 190.5 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -9300,7 +9300,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 83.82 203.2 0)
+			(at 251.46 190.5 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -9311,7 +9311,7 @@
 			)
 		)
 		(property "Description" "Resistor, small symbol"
-			(at 83.82 203.2 0)
+			(at 251.46 190.5 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -9322,7 +9322,7 @@
 			)
 		)
 		(property "Note" "DNP"
-			(at 86.36 203.2 90)
+			(at 254 190.5 90)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -9332,7 +9332,7 @@
 			)
 		)
 		(property "Voltage" ""
-			(at 83.82 203.2 0)
+			(at 251.46 190.5 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -9343,7 +9343,7 @@
 			)
 		)
 		(property "class" ""
-			(at 83.82 203.2 0)
+			(at 251.46 190.5 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -9360,9 +9360,9 @@
 			(uuid "01615b75-e3f2-465e-8044-9cef118b868e")
 		)
 		(instances
-			(project "Ice40hx1k_vq100"
+			(project "RP2350B_LevelShift"
 				(path "/26813dea-ac31-4359-98cd-29d1f4f9df4c"
-					(reference "R11")
+					(reference "R4")
 					(unit 1)
 				)
 			)
@@ -9370,7 +9370,7 @@
 	)
 	(symbol
 		(lib_id "power:+1V2")
-		(at 114.3 142.24 0)
+		(at 281.94 129.54 0)
 		(mirror y)
 		(unit 1)
 		(body_style 1)
@@ -9380,8 +9380,8 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "d02d234f-6fe7-4995-b64f-5dd29a3af707")
-		(property "Reference" "#PWR013"
-			(at 114.3 146.05 0)
+		(property "Reference" "#PWR09"
+			(at 281.94 133.35 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -9392,7 +9392,7 @@
 			)
 		)
 		(property "Value" "+1V1"
-			(at 113.8027 138.7019 0)
+			(at 281.4427 126.0019 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -9402,7 +9402,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 114.3 142.24 0)
+			(at 281.94 129.54 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -9413,7 +9413,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 114.3 142.24 0)
+			(at 281.94 129.54 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -9424,7 +9424,7 @@
 			)
 		)
 		(property "Description" "Power symbol creates a global label with name \"+1V2\""
-			(at 114.3 142.24 0)
+			(at 281.94 129.54 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -9438,9 +9438,9 @@
 			(uuid "3120375e-0ade-479d-9578-4c53bd3e3318")
 		)
 		(instances
-			(project "Ice40hx1k_vq100"
+			(project "RP2350B_LevelShift"
 				(path "/26813dea-ac31-4359-98cd-29d1f4f9df4c"
-					(reference "#PWR013")
+					(reference "#PWR09")
 					(unit 1)
 				)
 			)
@@ -9448,7 +9448,7 @@
 	)
 	(symbol
 		(lib_id "power:GND")
-		(at 71.12 264.16 0)
+		(at 238.76 251.46 0)
 		(mirror y)
 		(unit 1)
 		(body_style 1)
@@ -9459,8 +9459,8 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "d4698e55-5b01-4f22-97f6-fd74fb6906fd")
-		(property "Reference" "#PWR042"
-			(at 71.12 270.51 0)
+		(property "Reference" "#PWR05"
+			(at 238.76 257.81 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -9471,7 +9471,7 @@
 			)
 		)
 		(property "Value" "GND"
-			(at 71.12 269.24 0)
+			(at 238.76 256.54 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -9482,7 +9482,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 71.12 264.16 0)
+			(at 238.76 251.46 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -9493,7 +9493,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 71.12 264.16 0)
+			(at 238.76 251.46 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -9504,7 +9504,7 @@
 			)
 		)
 		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
-			(at 71.12 264.16 0)
+			(at 238.76 251.46 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -9518,9 +9518,9 @@
 			(uuid "864108cb-61bb-4113-8144-76a9a0372a3e")
 		)
 		(instances
-			(project "Ice40hx1k_vq100"
+			(project "RP2350B_LevelShift"
 				(path "/26813dea-ac31-4359-98cd-29d1f4f9df4c"
-					(reference "#PWR042")
+					(reference "#PWR05")
 					(unit 1)
 				)
 			)
@@ -9528,7 +9528,7 @@
 	)
 	(symbol
 		(lib_id "Device:C_Small")
-		(at 76.2 223.52 90)
+		(at 243.84 210.82 90)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -9537,8 +9537,8 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "d6cf2f09-1ff3-417f-9d66-406a8dba70e4")
-		(property "Reference" "C25"
-			(at 76.2 218.44 90)
+		(property "Reference" "C1"
+			(at 243.84 205.74 90)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -9548,7 +9548,7 @@
 			)
 		)
 		(property "Value" "10pf"
-			(at 76.2 220.98 90)
+			(at 243.84 208.28 90)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -9558,7 +9558,7 @@
 			)
 		)
 		(property "Footprint" "Capacitor_SMD:C_0603_1608Metric"
-			(at 76.2 223.52 0)
+			(at 243.84 210.82 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -9569,7 +9569,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 76.2 223.52 0)
+			(at 243.84 210.82 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -9580,7 +9580,7 @@
 			)
 		)
 		(property "Description" "Unpolarized capacitor, small symbol"
-			(at 76.2 223.52 0)
+			(at 243.84 210.82 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -9597,9 +9597,9 @@
 			(uuid "8c866b03-6a3e-42ff-bb48-e31e22a6d135")
 		)
 		(instances
-			(project "Ice40hx1k_vq100"
+			(project "RP2350B_LevelShift"
 				(path "/26813dea-ac31-4359-98cd-29d1f4f9df4c"
-					(reference "C25")
+					(reference "C1")
 					(unit 1)
 				)
 			)
@@ -9607,7 +9607,7 @@
 	)
 	(symbol
 		(lib_id "Device:R_Small")
-		(at 60.96 238.76 0)
+		(at 228.6 226.06 0)
 		(mirror y)
 		(unit 1)
 		(body_style 1)
@@ -9617,8 +9617,8 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "d715b5f0-1fe1-47c9-9c06-dd7f9719b503")
-		(property "Reference" "R22"
-			(at 59.0366 238.798 90)
+		(property "Reference" "R1"
+			(at 226.6766 226.098 90)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -9628,7 +9628,7 @@
 			)
 		)
 		(property "Value" "10k"
-			(at 60.96 238.76 90)
+			(at 228.6 226.06 90)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -9638,7 +9638,7 @@
 			)
 		)
 		(property "Footprint" "Resistor_SMD:R_0603_1608Metric"
-			(at 60.96 238.76 0)
+			(at 228.6 226.06 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -9649,7 +9649,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 60.96 238.76 0)
+			(at 228.6 226.06 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -9660,7 +9660,7 @@
 			)
 		)
 		(property "Description" "Resistor, small symbol"
-			(at 60.96 238.76 0)
+			(at 228.6 226.06 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -9671,7 +9671,7 @@
 			)
 		)
 		(property "Note" ""
-			(at 60.96 238.76 0)
+			(at 228.6 226.06 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -9682,7 +9682,7 @@
 			)
 		)
 		(property "Voltage" ""
-			(at 60.96 238.76 0)
+			(at 228.6 226.06 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -9693,7 +9693,7 @@
 			)
 		)
 		(property "class" ""
-			(at 60.96 238.76 0)
+			(at 228.6 226.06 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -9710,9 +9710,9 @@
 			(uuid "85e8ee9e-4ab9-4004-8ebe-767f108d1b6e")
 		)
 		(instances
-			(project "Ice40hx1k_vq100"
+			(project "RP2350B_LevelShift"
 				(path "/26813dea-ac31-4359-98cd-29d1f4f9df4c"
-					(reference "R22")
+					(reference "R1")
 					(unit 1)
 				)
 			)
@@ -9720,7 +9720,7 @@
 	)
 	(symbol
 		(lib_id "Device:R_Small")
-		(at 170.18 190.5 90)
+		(at 337.82 177.8 90)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -9729,8 +9729,8 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "dd6ecce1-851a-4ab7-89a3-45ff35d69dca")
-		(property "Reference" "R9"
-			(at 170.18 193.04 90)
+		(property "Reference" "R7"
+			(at 337.82 180.34 90)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -9740,7 +9740,7 @@
 			)
 		)
 		(property "Value" "27R"
-			(at 170.18 190.5 90)
+			(at 337.82 177.8 90)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -9750,7 +9750,7 @@
 			)
 		)
 		(property "Footprint" "Resistor_SMD:R_0603_1608Metric"
-			(at 170.18 190.5 0)
+			(at 337.82 177.8 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -9761,7 +9761,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 170.18 190.5 0)
+			(at 337.82 177.8 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -9772,7 +9772,7 @@
 			)
 		)
 		(property "Description" "Resistor, small symbol"
-			(at 170.18 190.5 0)
+			(at 337.82 177.8 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -9783,7 +9783,7 @@
 			)
 		)
 		(property "Note" ""
-			(at 170.18 190.5 0)
+			(at 337.82 177.8 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -9794,7 +9794,7 @@
 			)
 		)
 		(property "Voltage" ""
-			(at 170.18 190.5 0)
+			(at 337.82 177.8 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -9805,7 +9805,7 @@
 			)
 		)
 		(property "class" ""
-			(at 170.18 190.5 0)
+			(at 337.82 177.8 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -9822,9 +9822,9 @@
 			(uuid "2b535b8e-8a3e-4f67-9c18-080f26d42c8d")
 		)
 		(instances
-			(project "Ice40hx1k_vq100"
+			(project "RP2350B_LevelShift"
 				(path "/26813dea-ac31-4359-98cd-29d1f4f9df4c"
-					(reference "R9")
+					(reference "R7")
 					(unit 1)
 				)
 			)
@@ -9832,7 +9832,7 @@
 	)
 	(symbol
 		(lib_id "Device:R_Small")
-		(at 76.2 182.88 90)
+		(at 243.84 170.18 90)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -9841,8 +9841,8 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "dfc3366b-cc5d-4711-818f-0b684365476a")
-		(property "Reference" "R6"
-			(at 76.238 180.9566 90)
+		(property "Reference" "R3"
+			(at 243.878 168.2566 90)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -9852,7 +9852,7 @@
 			)
 		)
 		(property "Value" "27R"
-			(at 76.2 182.88 90)
+			(at 243.84 170.18 90)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -9862,7 +9862,7 @@
 			)
 		)
 		(property "Footprint" "Resistor_SMD:R_0603_1608Metric"
-			(at 76.2 182.88 0)
+			(at 243.84 170.18 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -9873,7 +9873,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 76.2 182.88 0)
+			(at 243.84 170.18 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -9884,7 +9884,7 @@
 			)
 		)
 		(property "Description" "Resistor, small symbol"
-			(at 76.2 182.88 0)
+			(at 243.84 170.18 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -9895,7 +9895,7 @@
 			)
 		)
 		(property "Note" ""
-			(at 76.2 182.88 0)
+			(at 243.84 170.18 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -9906,7 +9906,7 @@
 			)
 		)
 		(property "Voltage" ""
-			(at 76.2 182.88 0)
+			(at 243.84 170.18 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -9917,7 +9917,7 @@
 			)
 		)
 		(property "class" ""
-			(at 76.2 182.88 0)
+			(at 243.84 170.18 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -9934,9 +9934,9 @@
 			(uuid "5ebd1669-2859-49af-b685-b87a9ff12825")
 		)
 		(instances
-			(project "Ice40hx1k_vq100"
+			(project "RP2350B_LevelShift"
 				(path "/26813dea-ac31-4359-98cd-29d1f4f9df4c"
-					(reference "R6")
+					(reference "R3")
 					(unit 1)
 				)
 			)
@@ -9944,7 +9944,7 @@
 	)
 	(symbol
 		(lib_id "power:GND")
-		(at 208.28 195.58 0)
+		(at 375.92 182.88 0)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -9954,8 +9954,8 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "f3ef3a7e-1d00-4d0d-b71f-7025c8b76c74")
-		(property "Reference" "#PWR026"
-			(at 208.28 201.93 0)
+		(property "Reference" "#PWR016"
+			(at 375.92 189.23 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -9966,7 +9966,7 @@
 			)
 		)
 		(property "Value" "GND"
-			(at 208.28 200.66 0)
+			(at 375.92 187.96 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -9977,7 +9977,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 208.28 195.58 0)
+			(at 375.92 182.88 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -9988,7 +9988,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 208.28 195.58 0)
+			(at 375.92 182.88 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -9999,7 +9999,7 @@
 			)
 		)
 		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
-			(at 208.28 195.58 0)
+			(at 375.92 182.88 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -10013,9 +10013,9 @@
 			(uuid "2d362f9c-f38e-495e-9cd7-835e53908e87")
 		)
 		(instances
-			(project "Ice40hx1k_vq100"
+			(project "RP2350B_LevelShift"
 				(path "/26813dea-ac31-4359-98cd-29d1f4f9df4c"
-					(reference "#PWR026")
+					(reference "#PWR016")
 					(unit 1)
 				)
 			)
